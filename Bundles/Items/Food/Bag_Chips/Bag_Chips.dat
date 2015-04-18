@@ -1,9 +1,0 @@
-Type Food
-Useable Consumeable
-ID 82
-
-Size_X 1
-Size_Y 2
-Size_Z 0.45
-
-Food 30
