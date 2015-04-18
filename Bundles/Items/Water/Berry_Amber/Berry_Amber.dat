@@ -1,0 +1,11 @@
+Type Water
+Useable Consumeable
+ID 270
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 20
+Water 20
+Vision 20

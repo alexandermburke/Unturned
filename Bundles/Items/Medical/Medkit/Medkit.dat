@@ -1,0 +1,12 @@
+Type Medical
+Useable Consumeable
+ID 15
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Bleeding
+Broken
+Health 75

@@ -1,0 +1,10 @@
+Type Food
+Useable Consumeable
+ID 77
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 40
+Water 15

@@ -1,0 +1,17 @@
+Type Backpack
+Useable Clothing
+ID 248
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 7
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 248
+Blueprint_0_Product 66
+Blueprint_0_Products 4
+Blueprint_0_Build 32
