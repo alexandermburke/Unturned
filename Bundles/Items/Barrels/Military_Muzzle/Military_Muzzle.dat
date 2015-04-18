@@ -1,0 +1,14 @@
+Type Barrel
+ID 150
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 2
+Caliber_0 1
+Caliber_1 12
+
+Braked
+Recoil_X 0.8
+Recoil_Y 0.6

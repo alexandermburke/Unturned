@@ -1,0 +1,10 @@
+Type Water
+Useable Consumeable
+ID 275
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 20
+Vision 20

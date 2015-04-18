@@ -1,0 +1,15 @@
+Type Barricade
+Useable Barricade
+Build Bed
+ID 293
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 200
+Range 4
+Radius 0.2
+Offset 0.2
+
+Explosion 37

@@ -1,0 +1,10 @@
+Type Resource
+ID 6
+
+Health 1000
+Radius 5
+Scale 0.3
+
+Explosion 25
+Log 39
+Stick 40
