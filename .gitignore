@@ -224,3 +224,6 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 Unturned_Data/output_log.txt
+Unturned_Data/Managed/Assembly-CSharp.dll
+*.txt
+Unturned_Data/Managed/UnityEngine.dll
