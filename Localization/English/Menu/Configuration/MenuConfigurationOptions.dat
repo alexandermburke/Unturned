@@ -1,0 +1,14 @@
+FOV_Slider_Label Field of View [{0}°]
+Volume_Slider_Label Volume [{0}%]
+Debug_Toggle_Label FPS/Debug
+Music_Toggle_Label Music
+Physics_Toggle_Label Physics
+Gore_Toggle_Label Blood
+Filter_Toggle_Label Profanity Filter
+Chat_Text_Toggle_Label Text Chat
+Chat_Voice_Toggle_Label Voice Chat
+Hints_Toggle_Label Hints
+
+Metric_On Metric
+Metric_Off Imperial
+Metric_Tooltip Measurement System

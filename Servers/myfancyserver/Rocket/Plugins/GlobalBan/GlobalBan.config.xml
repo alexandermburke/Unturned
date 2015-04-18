@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalBanConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DatabaseAddress>localhost</DatabaseAddress>
+  <DatabaseUsername>root</DatabaseUsername>
+  <DatabasePassword>lifedb</DatabasePassword>
+  <DatabaseName>globalban</DatabaseName>
+  <DatabaseTableName>banlist</DatabaseTableName>
+  <DatabasePort>3306</DatabasePort>
+</GlobalBanConfiguration>

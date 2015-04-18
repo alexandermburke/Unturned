@@ -1,0 +1,9 @@
+SelectionBoxLabelText Selection
+
+WidthFieldLabelText Width
+HeightFieldLabelText Height
+DepthFieldLabelText Depth
+ConcreteToggleLabelText Concrete
+
+BakeRoadsButtonText Bake Roads
+BakeRoadsButtonTooltip Generate Roads

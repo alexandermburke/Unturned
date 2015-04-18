@@ -1,0 +1,48 @@
+Server_Button {0} on {1}
+Server_Players {0}/{1}
+
+Password_Field_Label Password
+Password_Field_Replace #
+
+Refresh_Internet_Button WAN
+Refresh_Internet_Button_Tooltip Refresh
+
+Refresh_LAN_Button LAN	
+Refresh_LAN_Button_Tooltip Refresh
+
+Password_Toggle Password
+
+Attendance_Toggle Playing
+Security_Toggle Secure
+PvP_Toggle PvP
+
+Any_Attendance_Button Any Attendance
+Empty_Button Empty
+Space_Button Space
+
+Any_Protection_Button Any Protection
+Secure_Button Secure
+Insecure_Button Insecure
+
+Any_Combat_Button Any Combat
+PvP_Button PvP
+PvE_Button PvE
+
+Any_Mode_Button Any Mode
+Easy_Button Easy
+Normal_Button Normal
+Hard_Button Hard
+Pro_Button Gold
+
+Any_Map Any Map
+
+No_Servers No servers found on the master server.
+
+Sort_Name Name
+Sort_Name_Tooltip Sort by name.
+
+Sort_Players Players
+Sort_Players_Tooltip Sort by players.
+
+Sort_Ping Ping
+Sort_Ping_Tooltip Sort by ping.

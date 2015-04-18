@@ -1,0 +1,12 @@
+DebugCommandText Debug
+DebugInfoText Debug
+DebugHelpText This provides information on the state of the server.
+
+DebugText Server State
+DebugIPPortText {0} {1}:{2}
+DebugBytesSentText Bytes sent: {0}
+DebugBytesReceivedText Bytes received: {0}
+DebugAverageBytesSentText Average bytes sent: {0}
+DebugAverageBytesReceivedText Average bytes received {0}
+DebugPacketsSentText Packets sent: {0}
+DebugPacketsReceivedText Packets received: {0}

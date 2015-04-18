@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UconomyBasicShopConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemShopTableName>itemshop</ItemShopTableName>
+  <VehicleShopTableName>vehicleshop</VehicleShopTableName>
+  <CanBuyItems>true</CanBuyItems>
+  <CanBuyVehicles>true</CanBuyVehicles>
+  <ItemCostMsg>The item {0} costs {1} {2} to buy.</ItemCostMsg>
+  <VehicleCostMsg>The vehicle {0} costs {1} {2} to buy.</VehicleCostMsg>
+  <ItemBuyMsg>You have bought {5} {0} for {1} {2}.  You now have {3} {4}.</ItemBuyMsg>
+  <VehicleBuyMsg>You have bought 1 {0} for {1} {2}.  You now have {3} {4}.</VehicleBuyMsg>
+  <NotEnoughCurrencyMsg>You do not have enough {0} to buy {1} {2}.</NotEnoughCurrencyMsg>
+  <BuyItemsOff>I'm sorry, but the ability to buy items is turned off.</BuyItemsOff>
+  <BuyVehiclesOff>I'm sorry, but the ability to buy vehicles is turned off.</BuyVehiclesOff>
+  <ItemNotAvailable>I'm sorry, but {0} is not available in the shop.</ItemNotAvailable>
+  <VehicleNotAvailable>I'm sorry, but {0} is not available in the shop.</VehicleNotAvailable>
+  <CouldNotFind>I'm sorry, I couldn't find an id for {0}.</CouldNotFind>
+</UconomyBasicShopConfiguration>

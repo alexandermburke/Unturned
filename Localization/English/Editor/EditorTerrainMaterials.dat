@@ -1,0 +1,25 @@
+OvergrowthSliderLabelText Overgrowth
+ChanceSliderLabelText Chance
+SteepnessFieldLabelText Steepness
+HeightValueLabelText Height
+Grassy_0_ToggleLabelText Grassy #1
+Grassy_1_ToggleLabelText Grassy #2
+FloweryToggleLabelText Flowery
+RockyToggleLabelText Rocky
+SnowyToggleLabelText Snowy
+FoundationToggleLabelText Foundation
+GeneratedToggleLabelText Generated
+CutToggleLabelText Cut
+
+BakeGlobalMaterialsButtonText Bake Global
+BakeGlobalMaterialsButtonTooltip Generate Alphamap
+
+BakeLocalMaterialsButtonText Bake Local
+BakeLocalMaterialsButtonTooltip Generate Alphamap
+
+SelectionBoxLabelText Selection
+SizeSliderLabelText Size
+
+Map2ButtonText1 Primary
+Map2ButtonText2 Secondary
+Map2Tooltip Landscape

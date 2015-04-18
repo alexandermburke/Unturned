@@ -1,0 +1,7 @@
+RunningErrorText Failed to enable PvP while running.
+
+PvPCommandText PvP
+PvPInfoText PvP
+PvPHelpText This allows player versus player combat.
+
+PvPText Successfully enabled PvP.

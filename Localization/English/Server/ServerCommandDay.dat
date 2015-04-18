@@ -1,0 +1,5 @@
+DayCommandText Day
+DayInfoText Day
+DayHelpText This assigns the current time to day.
+
+DayText Successfully set time to day!

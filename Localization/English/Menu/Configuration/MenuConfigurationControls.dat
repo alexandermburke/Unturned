@@ -1,0 +1,62 @@
+Sensitivity_Slider_Label Sensitivity [{0}%]
+Invert_Toggle_Label Invert
+Aiming_Label Aiming
+Crouching_Label Crouching
+Proning_Label Proning
+Sprinting_Label Sprinting
+
+Hold Hold
+Toggle Toggle
+
+Mouse_0 Mouse #1
+Mouse_1 Mouse #2
+Mouse_2 Mouse #3
+Mouse_3 Mouse #4
+Mouse_4 Mouse #5
+Mouse_5 Mouse #6
+
+Layout_0 Movement
+Layout_1 Stance
+Layout_2 Use
+Layout_3 Items
+Layout_4 Communication
+Layout_5 Interface
+Layout_6 Editor
+
+Key_0_Button Left [{0}]
+Key_1_Button Right [{0}]
+Key_2_Button Up [{0}]
+Key_3_Button Down [{0}]
+Key_4_Button Jump [{0}]
+Key_5_Button Lean Left [{0}]
+Key_6_Button Lean Right [{0}]
+Key_7_Button Primary [{0}]
+Key_8_Button Secondary [{0}]
+Key_9_Button Interact [{0}]
+Key_10_Button Crouch [{0}]
+Key_11_Button Prone [{0}]
+Key_12_Button Sprint [{0}]
+Key_13_Button Reload [{0}]
+Key_14_Button Attach [{0}]
+Key_15_Button Firemode [{0}]
+Key_16_Button Dashboard [{0}]
+Key_17_Button Inventory [{0}]
+Key_18_Button Crafting [{0}]
+Key_19_Button Skills [{0}]
+Key_20_Button Map [{0}]
+Key_21_Button Players [{0}]
+Key_22_Button Voice [{0}] 
+Key_23_Button Modify [{0}]
+Key_24_Button Snap [{0}]
+Key_25_Button Focus [{0}]
+Key_26_Button Tool #1 [{0}]
+Key_27_Button Tool #2 [{0}]
+Key_28_Button Tool #3 [{0}]
+Key_29_Button HUD [{0}]
+Key_30_Button Other [{0}]
+Key_31_Button World Chat [{0}]
+Key_32_Button Area Chat [{0}]
+Key_33_Button Group Chat [{0}]
+Key_34_Button Gesture [{0}]
+Key_35_Button Vision [{0}]
+Key_36_Button Tactical [{0}]

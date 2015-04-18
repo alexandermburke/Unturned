@@ -1,0 +1,12 @@
+Exit_Button Exit
+Exit_Button_Tooltip Return to menu.
+Suicide_Button Suicide
+Suicide_Button_Tooltip Respawn somewhere else.
+Suicide_Button_Confirm Yes
+Suicide_Button_Confirm_Tooltip Die
+Suicide_Button_Deny No
+Suicide_Button_Deny_Tooltip Live
+
+Server {0} on {1} [{2}]
+Secure VAC Secure
+Insecure VAC Insecure

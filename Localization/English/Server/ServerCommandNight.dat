@@ -1,0 +1,5 @@
+NightCommandText Night
+NightInfoText Night
+NightHelpText This assigns the current time to night.
+
+NightText Successfully set time to night!

@@ -1,0 +1,7 @@
+InvalidItemIDErrorText Failed to convert {0} into an ItemID.
+
+LoadoutCommandText Loadout
+LoadoutInfoText Loadout [ItemID]/[ItemID]/...	
+LoadoutHelpText This gives players each item when spawning.
+
+LoadoutText Successfully set loadout!

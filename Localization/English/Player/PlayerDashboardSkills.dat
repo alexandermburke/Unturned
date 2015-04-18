@@ -1,0 +1,59 @@
+Speciality_0_Tooltip Offense
+Speciality_1_Tooltip Defense
+Speciality_2_Tooltip Support
+
+Speciality_0_Skill_0 Overkill
+Speciality_0_Skill_0_Tooltip Punch and melee with greater force.
+Speciality_0_Skill_1 Sharpshooter
+Speciality_0_Skill_1_Tooltip Stabilizes recoil and increases accuracy.
+Speciality_0_Skill_2 Dexterity
+Speciality_0_Skill_2_Tooltip Faster reloading.
+Speciality_0_Skill_3 Cardio
+Speciality_0_Skill_3_Tooltip Regenerate stamina and oxygen faster.
+Speciality_0_Skill_4 Exercise
+Speciality_0_Skill_4_Tooltip Use less stamina.
+Speciality_0_Skill_5 Diving
+Speciality_0_Skill_5_Tooltip Use less oxygen and swim faster.
+Speciality_0_Skill_6 Parkour
+Speciality_0_Skill_6_Tooltip Move faster and jump higher.
+
+Speciality_1_Skill_0 Sneakybeaky
+Speciality_1_Skill_0_Tooltip Move quietly and alert less zombies when crouched or prone.
+Speciality_1_Skill_1 Vitality
+Speciality_1_Skill_1_Tooltip Lose food and water more slowly, regenerate health with near full food and water faster.
+Speciality_1_Skill_2 Immunity
+Speciality_1_Skill_2_Tooltip Immune to bacteria, zombies and hallucinogens.
+Speciality_1_Skill_3 Toughness
+Speciality_1_Skill_3_Tooltip Less flinching and pain effects.
+Speciality_1_Skill_4 Strength
+Speciality_1_Skill_4_Tooltip Slower bleeding and fall damage, healed more quickly.
+Speciality_1_Skill_5 Warmblooded
+Speciality_1_Skill_5_Tooltip Protected from the cold.
+
+Speciality_2_Skill_0 Healing
+Speciality_2_Skill_0_Tooltip Use healing items more efficiently.
+Speciality_2_Skill_1 Crafting
+Speciality_2_Skill_1_Tooltip Think up more complex blueprints for building.
+Speciality_2_Skill_2 Outdoors
+Speciality_2_Skill_2_Tooltip Chop down trees faster.
+Speciality_2_Skill_3 Cooking
+Speciality_2_Skill_3_Tooltip Prepare high quality food.
+Speciality_2_Skill_4 Fishing
+Speciality_2_Skill_4_Tooltip Catch fish more efishiently.
+Speciality_2_Skill_5 Agriculture
+Speciality_2_Skill_5_Tooltip Harvest crops and plants more efficiently. 
+Speciality_2_Skill_6 Mechanic
+Speciality_2_Skill_6_Tooltip Maintain vehicles more efficiently.
+
+Boost_0 Random Boost
+Boost_0_Tooltip Random Boost
+Boost_1 Hardened
+Boost_1_Tooltip Reduced damage from zombies.
+Boost_2 Splatterific
+Boost_2_Tooltip More blood splatters.
+Boost_3 Flight
+Boost_3_Tooltip Ragdolls and carjacks gain extra velocity.
+Boost_4 Olympic
+Boost_4_Tooltip Throw objects further.
+
+Experience Experience: {0}

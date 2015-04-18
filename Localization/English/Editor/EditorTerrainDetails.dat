@@ -1,0 +1,10 @@
+DensitySliderLabelText Density
+ChanceSliderLabelText Chance
+Grass_0_ToggleLabelText Grass #1
+Grass_1_ToggleLabelText Grass #2
+FlowerToggleLabelText Flower
+RockToggleLabelText Rock
+SnowToggleLabelText Snow
+
+BakeDetailsButtonText Bake
+BakeDetailsButtonTooltip Generate Detailmap

@@ -1,0 +1,5 @@
+NotRunningErrorText Failed to say while not running. 
+
+SayCommandText Say
+SayInfoText Say [Text]	
+SayHelpText This broadcasts a message to all of the connected clients.

@@ -1,0 +1,9 @@
+InvalidNumberErrorText Failed to convert {0} into a number.
+MinNumberErrorText Failed to make time less than {0}.
+MaxNumberErrorText Failed to make time greater than {0}.
+
+TimeCommandText Time
+TimeInfoText Time [Number]
+TimeHelpText This assigns the current time in seconds of the day/night cycle.
+
+TimeText Successfully set time to {0}!

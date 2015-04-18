@@ -1,0 +1,13 @@
+InvalidParameterErrorText Failed to find parameters in format [SteamID | Player]/[VehicleID].
+InvalidNumberErrorText Failed to convert {0} into a number.
+InvalidItemIDErrorText Failed to convert {0} into a VehicleID.
+
+NoVehicleIDErrorText Failed to find any vehicle called {0}.
+NoPlayerErrorText Failed to find anyone called {0}.
+NotRunningErrorText Failed to give player vehicle while not running. 
+
+VehicleCommandText Vehicle
+VehicleInfoText Vehicle [SteamID | Player]/[VehicleID]	
+VehicleHelpText This gives a player a vehicle.
+
+VehicleText Successfully gave {0} {1}!

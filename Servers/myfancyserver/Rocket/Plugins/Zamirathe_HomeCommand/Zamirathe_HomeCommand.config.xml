@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HomeCommandConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enabled>true</Enabled>
+  <DisabledMsg>I'm sorry {0}, but the home command has been disabled.</DisabledMsg>
+  <NoBedMsg>Opps {0}, looks like you don't have a bed.</NoBedMsg>
+  <NoVehicleMsg>I'm sorry {0}, but you can't be teleported while inside a vehicle.</NoVehicleMsg>
+  <TeleportWait>true</TeleportWait>
+  <WaitGroups />
+  <TeleportMsg>You were sent back to your bed.</TeleportMsg>
+  <FoundBedNowWaitMsg>I have located your bed {0}, please wait for {1} seconds to be teleported.</FoundBedNowWaitMsg>
+  <MovementRestriction>true</MovementRestriction>
+  <FoundBedWaitNoMoveMsg>I have located your bed {0}, now don't move for {1} seconds while I prepare you for teleport.</FoundBedWaitNoMoveMsg>
+  <UnableMoveSinceMoveMsg>I'm sorry {0}, but you moved.  I am unable to teleport you.</UnableMoveSinceMoveMsg>
+  <NoTeleportDiedMsg>Sorry {0}, unable to finish home teleport as you died.</NoTeleportDiedMsg>
+</HomeCommandConfiguration>

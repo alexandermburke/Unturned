@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="command_generic_invalid_parameter" Value="Invalid Parameter" />
+  <Translation Id="command_generic_teleport_while_driving_error" Value="You cannot teleport while driving or riding in a vehicle." />
+  <Translation Id="command_god_enable_console" Value="{0} enabled Godmode" />
+  <Translation Id="command_god_enable_private" Value="You can feel the strength now..." />
+  <Translation Id="command_god_disable_console" Value="{0} disabled Godmode" />
+  <Translation Id="command_god_disable_private" Value="The godly powers left you..." />
+  <Translation Id="command_bed_no_bed_found_private" Value="You do not have a bed to teleport to." />
+  <Translation Id="command_i_giving_console" Value="Giving {0} item {1}:{2}" />
+  <Translation Id="command_i_giving_private" Value="Giving you item {0}x {1} ({2})" />
+  <Translation Id="command_i_giving_failed_private" Value="Failed giving you item {0}x {1} ({2})" />
+  <Translation Id="command_v_giving_console" Value="Giving {0} vehicle {1}" />
+  <Translation Id="command_v_giving_private" Value="Giving you a {0} ({1})" />
+  <Translation Id="command_v_giving_failed_private" Value="Failed giving you a {0} ({1})" />
+  <Translation Id="command_tps_tps" Value="TPS: {0}" />
+  <Translation Id="command_tps_running_since" Value="Running since: {0} UTC" />
+  <Translation Id="command_p_reload_private" Value="Reloaded permissions" />
+  <Translation Id="command_p_groups_private" Value="{0} groups are: {1}" />
+  <Translation Id="command_p_permissions_private" Value="{0} permissions are: {1}" />
+  <Translation Id="command_tp_teleport_console" Value="{0} teleported to {1}" />
+  <Translation Id="command_tp_teleport_private" Value="Teleported to {0}" />
+  <Translation Id="command_tp_failed_find_destination" Value="Failed to find destination" />
+  <Translation Id="command_tphere_teleport_console" Value="{0} was teleported to {1}" />
+  <Translation Id="command_tphere_teleport_from_private" Value="Teleported {0} to you" />
+  <Translation Id="command_tphere_teleport_to_private" Value="You were teleported to {0}" />
+  <Translation Id="command_tphere_failed_find_player" Value="Failed to find player" />
+  <Translation Id="rocket_join_public" Value="{0} connected to the server" />
+  <Translation Id="rocket_leave_public" Value="{0} disconnected from the server" />
+  <Translation Id="command_generic_target_player_not_found" Value="Target player not found" />
+  <Translation Id="command_vanish_enable_console" Value="{0} enabled Vanishmode" />
+  <Translation Id="command_vanish_enable_private" Value="You are vanished now..." />
+  <Translation Id="command_vanish_disable_console" Value="{0} disabled Vanishmode" />
+  <Translation Id="command_vanish_disable_private" Value="You are no longer vanished..." />
+  <Translation Id="command_heal_success_me" Value="{0} was successfully healed" />
+  <Translation Id="command_heal_success_other" Value="You were healed by {0}" />
+  <Translation Id="command_heal_success" Value="You were healed" />
+  <Translation Id="command_compass_facing_private" Value="You are facing {0}" />
+  <Translation Id="command_compass_north" Value="North" />
+  <Translation Id="command_compass_east" Value="East" />
+  <Translation Id="command_compass_south" Value="South" />
+  <Translation Id="command_compass_west" Value="West" />
+  <Translation Id="rocket_restart_warning_public" Value="This server will be restarted in 30 seconds" />
+  <Translation Id="command_duty_enable_console" Value="{0} is in duty" />
+  <Translation Id="command_duty_enable_private" Value="You are in duty now..." />
+  <Translation Id="command_duty_disable_console" Value="{0} is no longer in duty" />
+  <Translation Id="command_duty_disable_private" Value="You are no longer in duty..." />
+  <Translation Id="command_generic_failed_find_player" Value="Failed to find player" />
+  <Translation Id="command_investigate_private" Value="{0} SteamID64 is {1}" />
+  <Translation Id="command_z_giving_console" Value="Spawning {1} zombies near {0}" />
+  <Translation Id="command_z_giving_private" Value="Spawning {0} zombies nerby" />
+  <Translation Id="command_clear_private" Value="Your inventory was cleared!" />
+  <Translation Id="command_compass_northwest" Value="NW" />
+  <Translation Id="command_compass_northeast" Value="NE" />
+  <Translation Id="command_compass_southwest" Value="SW" />
+  <Translation Id="command_compass_southeast" Value="SE" />
+</Translations>

@@ -1,0 +1,27 @@
+PlayButtonTooltip Play
+SurvivorsButtonTooltip Survivors
+ConfigurationButtonTooltip Configuration
+WorkshopButtonTooltip Workshop
+
+Banned You are banned from this server for another {0} because {1}.
+Kicked You are kicked from this server because {0}.
+VAC You are banned from VAC secure servers.
+Whitelisted You are not whitelisted on this server.
+Password Your password was incorrect.
+Full This server is now full.
+Hash This server is running modified files.
+Version This server is running a different version of the game.
+Pro You require Gold to join this server.
+Auth Your authentication is invalid.
+Name_Player_Short Your steam username is too short.
+Name_Player_Long Your steam username is too long.
+Name_Player_Invalid Your steam username contains invalid letters.
+Name_Player_Number Your steam username cannot be just a number.
+Name_Character_Short Your character name is too short.
+Name_Character_Long Your character name is too long.
+Name_Character_Invalid Your character name contains invalid letters.
+Name_Character_Number Your character name cannot be just a number.
+Timed_Out This server lost your connection.
+Map This server is running a map you don't have.
+Shutdown This server has been shutdown.
+Ping This server only accepts really fast internet.

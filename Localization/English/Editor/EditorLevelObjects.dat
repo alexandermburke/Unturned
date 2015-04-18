@@ -1,0 +1,19 @@
+SelectionBoxLabelText Selection
+SearchFieldLabelText Search
+
+SnapTransformLabelText Snap Transform
+SnapRotationLabelText Snap Rotation
+
+LargeLabel Large
+MediumLabel Medium
+SmallLabel Small
+
+TransformButtonText Transform [{0}]
+TransformButtonTooltip Move
+
+RotateButtonText Rotation [{0}]
+RotateButtonTooltip Rotate
+
+CoordinateButtonTextGlobal Global
+CoordinateButtonTextLocal Local
+CoordinateButtonTooltip Coordinate

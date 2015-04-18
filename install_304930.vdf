@@ -1,0 +1,11 @@
+"installscript"
+{
+	"firewall"
+	{
+		"Unturned"		"%INSTALLDIR%\\Unturned.exe"
+	}
+}
+"kvsignatures"
+{
+	"installscript"		"28cdb13a989e07b635302eda3f7aea131c0552523c0b0560f226a63d368d7fa078b9bf13044800a2d434fd0d88abc22e8ada756511f0a95cfaa9e569b074e77043eddac287b44bb24392eafbd8664f2e935ce605b44780e0d0d8736025897188f2ab60d0ee0abe754b0a9b875e7c91e4f012aae70184d9574bf898a5b1dcf929"
+}

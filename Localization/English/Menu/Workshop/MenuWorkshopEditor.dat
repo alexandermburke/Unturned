@@ -1,0 +1,22 @@
+Name_Field_Label Map
+
+Add_Button Add
+Add_Button_Tooltip Create Map
+
+Remove_Button Sub
+Remove_Button_Tooltip Remove Map
+Remove_Button_Confirm Yes
+Remove_Button_Confirm_Tooltip Remove
+Remove_Button_Deny No
+Remove_Button_Deny_Tooltip Keep
+
+Edit_Button Edit
+Edit_Button_Tooltip Edit
+
+Selection_Label Selection
+
+Tiny Tiny
+Small Small
+Medium Medium
+Large Large
+Insane Insane

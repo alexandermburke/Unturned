@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RocketSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TextCommands />
+  <AutomaticShutdownInterval>7200</AutomaticShutdownInterval>
+  <AutomaticShutdownClearLevel>false</AutomaticShutdownClearLevel>
+  <AutomaticShutdownClearPlayers>false</AutomaticShutdownClearPlayers>
+  <LanguageCode>en</LanguageCode>
+  <EnableJoinLeaveMessages>true</EnableJoinLeaveMessages>
+  <EnableRcon>false</EnableRcon>
+  <RconPassword>changeme</RconPassword>
+  <RconPort>0</RconPort>
+  <AutomaticSaveInterval>300</AutomaticSaveInterval>
+</RocketSettings>

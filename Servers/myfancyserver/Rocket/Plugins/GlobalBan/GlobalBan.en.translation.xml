@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="default_banmessage" Value="you are banned, contact the staff if you feel this is a mistake." />
+  <Translation Id="command_generic_invalid_parameter" Value="Invalid parameter" />
+  <Translation Id="command_generic_player_not_found" Value="Player not found" />
+  <Translation Id="command_ban_public_reason" Value="The player {0} was banned for: {1}" />
+  <Translation Id="command_ban_public" Value="The player {0} was banned" />
+  <Translation Id="command_ban_private_default_reason" Value="you were banned from the server" />
+  <Translation Id="command_kick_public_reason" Value="The player {0} was kicked for: {1}" />
+  <Translation Id="command_kick_public" Value="The player {0} was kicked" />
+  <Translation Id="command_kick_private_default_reason" Value="you were kicked from the server" />
+</Translations>

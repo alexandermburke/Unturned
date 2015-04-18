@@ -1,0 +1,19 @@
+Anti_Aliasing_Toggle_Label FXAA
+Motion_Blur_Toggle_Label Motion Blur
+Ambient_Occlusion_Toggle_Label SSAO
+Sun_Shafts_Toggle_Label Sun Shafts
+Bloom_Toggle_Label Bloom
+Clouds_Toggle_Label Clouds
+Terrain_Toggle_Label Terrain
+
+Distance_Slider_Label Draw Distance [{0}%]
+
+Mesh_Button_Label Level of Detail
+Foliage_Button_Label Foliage Density
+Lighting_Button_Label Shadow Resolution
+Water_Button_Label Water Quality
+Scope_Button_Label Scope Resolution
+
+Low Low
+Medium Medium
+High High

@@ -1,0 +1,8 @@
+InvalidNumberErrorText Failed to convert {0} into a number.
+MinNumberErrorText Failed to make cycle less than {0}.
+MaxNumberErrorText Failed to make cycle greater than {0}.
+
+CycleCommandText Cycle
+CycleInfoText Cycle [Number]
+CycleText Successfully set cycle to {0}!
+CycleHelpText This assigns the length of the day/night cycle in seconds.

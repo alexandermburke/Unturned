@@ -1,0 +1,52 @@
+AzimuthSliderLabelText Azimuth
+BiasSliderLabelText Bias
+FadeSliderLabelText Fade
+Sea_Level_Slider_Label Sea Level
+Snow_Level_Slider_Label Snow Level
+MoonSliderLabelText Moon
+TimeSliderLabelText Time
+
+SkyDawnHeaderBoxText Sky Dawn
+SkyMiddayHeaderBoxText Sky Midday
+SkyDuskHeaderBoxText Sky Dusk
+SkyMidnightHeaderBoxText Sky Midnight
+
+AmbientDawnHeaderBoxText Ambient Dawn
+AmbientMiddayHeaderBoxText Ambient Midday
+AmbientDuskHeaderBoxText Ambient Dusk
+AmbientMidnightHeaderBoxText Ambient Midnight
+
+AmbientDawnFogHeaderBoxText Fog Dawn
+AmbientMiddayFogHeaderBoxText Fog Midday
+AmbientDuskFogHeaderBoxText Fog Dusk
+AmbientMidnightFogHeaderBoxText Fog Midnight
+
+SunDawnHeaderBoxText Sun Dawn
+SunMiddayHeaderBoxText Sun Midday
+SunDuskHeaderBoxText Sun Dusk
+SunMidnightHeaderBoxText Sun Midnight
+
+SeaDawnHeaderBoxText Sea Dawn
+SeaMiddayHeaderBoxText Sea Midday
+SeaDuskHeaderBoxText Sea Dusk
+SeaMidnightHeaderBoxText Sea Midnight
+
+SunDawnIntensityHeaderBoxText Intensity Dawn
+SunMiddayIntensityHeaderBoxText Intensity Midday
+SunDuskIntensityHeaderBoxText Intensity Dusk
+SunMidnightIntensityHeaderBoxText Intensity Midnight
+
+AmbientDawnFogSliderLabelText Fog Dawn
+AmbientMiddayFogSliderLabelText Fog Midday
+AmbientDuskFogSliderLabelText Fog Dusk
+AmbientMidnightFogSliderLabelText Fog Midnight
+
+AmbientDawnCloudsSliderLabelText Clouds Dawn
+AmbientMiddayCloudsSliderLabelText Clouds Midday
+AmbientDuskCloudsSliderLabelText Clouds Dusk
+AmbientMidnightCloudsSliderLabelText Clouds Midnight
+
+ShadowDawnIntensityHeaderBoxText Shadow Dawn
+ShadowMiddayIntensityHeaderBoxText Shadow Midday
+ShadowDuskIntensityHeaderBoxText Shadow Dusk
+ShadowMidnightIntensityHeaderBoxText Shadow Midnight

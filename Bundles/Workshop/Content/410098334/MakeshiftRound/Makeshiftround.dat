@@ -1,0 +1,18 @@
+Type Magazine
+ID 1104
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 1
+
+Calibers 1
+Caliber_0 50
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

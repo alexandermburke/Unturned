@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MessageAnnouncerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Interval>180</Interval>
+  <Messages>
+    <string>Use /home to teleport to your claimed bed!</string>
+    <string>Be sure to check out our website unturned.plantdown.com</string>
+    <string> To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!</string>
+    <string> To collect your vote reward say /reward, you can do this once a day if you vote </string>
+    <string>Anyone caught cheating or hacking will be banned!</string>
+    <string>Join us on Teamspeak - survivalintincts.typefrag.com</string>
+    <string>Don't forget  the server ip: play.plantdown.com</string>
+    <string> To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!</string>
+    <string> To collect your vote reward say /reward, you can do this once a day if you vote </string>
+    <string>Remember this server is PvE only, so you can't kill others here.</string>
+    <string>Please remember to always speak english in the main chat!</string>
+    <string> To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!</string>
+    <string> To collect your vote reward say /reward, you can do this once a day if you vote </string>
+    <string>We will be hiring more people to the staff team soon!</string>
+    <string> To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!</string>
+    <string> To collect your vote reward say /reward, you can do this once a day if you vote </string>
+    <string>Be sure to join our Steam group Unturned Survival Instincts</string>
+    <string> To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!</string>
+    <string> To collect your vote reward say /reward, you can do this once a day if you vote </string>
+    <string>To check your wallet say /balance</string>
+    <string>Every day your online will earn 20 Canadian Dollars</string>
+    <string> To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!</string>
+    <string> To collect your vote reward say /reward, you can do this once a day if you vote </string>
+    <string>Canadian Dollars can be spent in the item mall, visit tycoon-city.com for commands.</string>
+    <string>Our server restarts every two hour, a warning message will be sent 5 minutes before it restarts.</string>
+    <string> To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!</string>
+    <string> To collect your vote reward say /reward, you can do this once a day if you vote </string>
+    <string> Be sure to check out the forums http://forums.tycoon-city.com/index.php</string>
+    <string> To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!</string>
+    <string> To collect your vote reward say /reward, you can do this once a day if you vote </string>
+  </Messages>
+</MessageAnnouncerConfiguration>

@@ -1,0 +1,17 @@
+Author_Label by {0}
+Pro_Title Permanent Gold Upgrade 
+Pro_Button Support the game by upgrading to a Gold account! Click here to view the store page.
+Pro_Button_Tooltip Gold
+Info_Title Welcome to Unturned!
+Info_Button Keep in mind that this is the preview branch! You will quite likely find tons of bugs, so be sure to report them on the forums. Click here to view recent update notes.
+Info_Button_Tooltip Recent News
+
+Stat_Kills_Zombies_Normal You have killed {0} normal zombies!
+Stat_Kills_Players You have killed {0} players!
+Stat_Deaths_Players You have died {0} times!
+Stat_Found_Items You have found {0} items!
+Stat_Found_Resources You have harvested {0} resources!
+Stat_Found_Experience You have gained {0} experience!
+Stat_Kills_Zombies_Mega You have killed {0} mega zombies!
+
+Overlay Steam overlay needs to be enabled.

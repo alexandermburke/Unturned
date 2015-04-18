@@ -1,0 +1,22 @@
+Type Vehicle
+ID 8
+
+Speed_Min -7
+Speed_Max 12.5
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 400
+Health_Max 500
+Health 600
+
+Traction
+
+Explosion 20

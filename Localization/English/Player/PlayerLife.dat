@@ -1,0 +1,55 @@
+Space Missing Space
+Item Pickup {0} [{1}]
+Vehicle_Enter Enter {0} [{1}]
+Vehicle_Exit Exit [{0}]
+Vehicle_Swap Swap Seats [F1-F{0}]
+Reload Reload [{0}]
+Safety Safety [{0}]
+Light Toggle Light [{0}]
+Laser Toggle Laser [{0}]
+Enemy {0}
+Door_Open Open [{0}]
+Door_Close Close [{0}]
+Locked Locked
+Blocked Blocked
+Pillar Missing Pillar
+Post Missing Post
+Roof Missing Floor
+Wall Missing Wall
+Corner Missing Corner
+Ground Missing Ground
+Doorway Missing Doorway
+Garage Missing Garage
+Window Missing Window
+Bed_On Claim [{0}]
+Bed_Off Unclaim [{0}]
+Bed_Claimed Claimed
+Bounds Out Of Bounds
+Experience +{0} Experience
+Storage Storage [{0}]
+Farm Harvest [{0}]
+Grow Growing
+Soil Missing Soil
+Fire_On Light [{0}]
+Fire_Off Extinguish [{0}]
+Forage Forage [{0}]
+Generator_On Start [{0}]
+Generator_Off Stop [{0}]
+Spot_On On [{0}]
+Spot_Off Off [{0}]
+Empty Empty
+Full Full
+
+Chat_Global [World] {0}: {1}
+Chat_Local [Area] {0}: {1}
+Chat_Group [Group] {0}: {1}
+Chat_Welcome [Welcome] {0}: {1}
+Chat_Say [Alert] {0}: {1}
+
+Mode_Global [World]
+Mode_Local [Area]
+Mode_Group [Group]
+
+Surrender Surrender
+Point Point
+Wave Wave

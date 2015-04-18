@@ -1,0 +1,36 @@
+Type Melee
+Useable Melee
+Slot Secondary
+ID 943
+
+Size_X 4
+Size_Y 2
+Size_Z 0.4
+
+Range 1.5
+
+Player_Damage 20
+Player_Leg_Multiplier 0.25
+Player_Arm_Multiplier 0.25
+Player_Spine_Multiplier 0.75
+Player_Skull_Multiplier 1
+
+Zombie_Damage 30
+Zombie_Leg_Multiplier 0.25
+Zombie_Arm_Multiplier 0.25
+Zombie_Spine_Multiplier 0.75
+Zombie_Skull_Multiplier 1
+
+
+Resource_Damage 40
+
+Durability 0.05
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+
+Repeated

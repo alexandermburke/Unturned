@@ -1,0 +1,13 @@
+NoModeErrorText Failed to find gamemode called {0}.
+RunningErrorText Failed to change gamemode while running.
+
+ModeCommandText Mode
+ModeInfoText Mode [Easy | Normal | Hard | Gold]
+ModeHelpText This assigns the difficulty of the server. Gold is accessible only to premium players and provides special benefits.
+
+ModeText Successfully set gamemode to {0}!
+
+ModeEasy Easy
+ModeNormal Normal
+ModeHard Hard
+ModePro Gold

@@ -1,0 +1,5 @@
+WelcomeCommandText Welcome
+WelcomeInfoText Welcome [Text]	
+WelcomeHelpText This sets a welcome message shown to clients as they connect.
+
+WelcomeText Successfully set welcome message to {0}!

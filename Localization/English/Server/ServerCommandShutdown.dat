@@ -1,0 +1,3 @@
+ShutdownCommandText Shutdown
+ShutdownInfoText Shutdown
+ShutdownHelpText This properly saves the server state, disconnects the clients and closes the program.
