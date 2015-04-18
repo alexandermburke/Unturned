@@ -21,7 +21,7 @@ Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturn
 Loading C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
 Loading C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
-- Completed reload, in  0.050 seconds
+- Completed reload, in  0.070 seconds
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.dll (this message is harmless)
 The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/mainData' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 116332 > 116328]
@@ -125,25 +125,25 @@ The ID 820 for EXE_VSSVintorez is already taken by EXE_VSSVintorez!
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1313 unused Assets to reduce memory usage. Loaded Objects now: 32497.
-Total: 17.115862 ms (FindLiveObjects: 2.014222 ms CreateObjectMapping: 5.437003 ms MarkObjects: 7.275505 ms  DeleteObjects: 2.094679 ms)
+Total: 17.513397 ms (FindLiveObjects: 2.093282 ms CreateObjectMapping: 5.620826 ms MarkObjects: 7.293943 ms  DeleteObjects: 2.221232 ms)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Xml.dll (this message is harmless)
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Configuration.dll (this message is harmless)
-The server will automaticly shutdown in 7200 seconds (4/18/2015 6:24:33 PM UTC)
+The server will automaticly shutdown in 7200 seconds (4/18/2015 10:44:32 PM UTC)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-UnloadTime: 4.375975 ms
+UnloadTime: 3.563860 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 32515.
-Total: 28.655596 ms (FindLiveObjects: 2.743365 ms CreateObjectMapping: 9.221004 ms MarkObjects: 16.341463 ms  DeleteObjects: 0.096939 ms)
+Total: 13.572117 ms (FindLiveObjects: 2.046908 ms CreateObjectMapping: 3.920330 ms MarkObjects: 7.254832 ms  DeleteObjects: 0.084088 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 32555.
-Total: 55.666851 ms (FindLiveObjects: 1.862247 ms CreateObjectMapping: 4.500572 ms MarkObjects: 48.925213 ms  DeleteObjects: 0.104482 ms)
+Total: 51.609913 ms (FindLiveObjects: 1.722565 ms CreateObjectMapping: 3.316343 ms MarkObjects: 46.223194 ms  DeleteObjects: 0.089396 ms)
 
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\I18N.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\I18N.West.dll (this message is harmless)
@@ -151,62 +151,62 @@ Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Se
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Data.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Management.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Transactions.dll (this message is harmless)
-Non platform assembly: data-06913560 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06913560.dll
+Non platform assembly: data-06CD7F28 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CD7F28.dll
 AntiSuicide Version: 1.0.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2AF8B048 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AF8B048.dll
+Non platform assembly: data-06CD9930 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CD9930.dll
 autosave Version: 1.0.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2AF9FF28 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AF9FF28.dll
+Non platform assembly: data-06CDAF38 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CDAF38.dll
 GlobalBan Version: 1.4.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2AFA2930 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AFA2930.dll
+Non platform assembly: data-06CDD940 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CDD940.dll
 Zamirathe_HomeCommand Version: 2.0.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2AF8C650 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AF8C650.dll
+Non platform assembly: data-06CE3D48 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CE3D48.dll
 MessageAnnouncer Version: 1.5.0.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06BEE6E8 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06BEE6E8.dll
+Non platform assembly: data-06CE5150 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CE5150.dll
 Uconomy Version: 1.0.4.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2AFA6D38 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AFA6D38.dll
+Non platform assembly: data-2BCB0048 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BCB0048.dll
 Votifier Version: 1.3.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06BF0EF0 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06BF0EF0.dll
+Non platform assembly: data-2BCB3250 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BCB3250.dll
 Zamirathe_Feast Version: 2.0.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2AFA9F40 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AFA9F40.dll
+Non platform assembly: data-2BCB7A58 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BCB7A58.dll
 Zamirathe_HomeCommand Version: 2.1.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2AFAC948 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AFAC948.dll
+Non platform assembly: data-2BCBA460 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BCBA460.dll
 ZaupShop Version: 1.0.1.10
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
@@ -321,22 +321,22 @@ MessageAnnouncer >> Use /home to teleport to your claimed bed!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Zamirathe_Feast >> The next feast will be at Confederation Bridge at 4/18/2015 12:44:16 PM
+Zamirathe_Feast >> The next feast will be at Souris Campground at 4/18/2015 5:02:42 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B0062A8 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B0062A8.dll
-Non platform assembly: data-2B016EB0 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B016EB0.dll
-Non platform assembly: data-2B020AB8 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B020AB8.dll
-Non platform assembly: data-2AD20020 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AD20020.dll
-Non platform assembly: data-2B09A0C0 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B09A0C0.dll
-Non platform assembly: data-2B15BF10 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B15BF10.dll
+Non platform assembly: data-2BD3F6B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BD3F6B0.dll
+Non platform assembly: data-2BD522B8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BD522B8.dll
+Non platform assembly: data-2BD5AEC0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BD5AEC0.dll
+Non platform assembly: data-2A0F0020 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2A0F0020.dll
+Non platform assembly: data-2BDDD4C8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BDDD4C8.dll
+Non platform assembly: data-2BEEC710 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BEEC710.dll
 The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 6490136 > 6490132]
  
@@ -412,92 +412,28 @@ The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/r
  
 (Filename:  Line: 273)
 
-Broadcast: zachary.wan90 connected to the server
+Broadcast: Lavender connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198121114087 Name: zachary.wan90 Character: zachary.wan90
+Connecting: PlayerID: 76561198126157171 Name: Knifedera Character: Lavender
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Mono.Security.dll (this message is harmless)
-Broadcast: REYTINIEBLAS1 connected to the server
+Broadcast: Ryusmay connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198151944024 Name: REYTINIEBLAS1 Character: REYTINIEBLAS1
+Connecting: PlayerID: 76561198081759657 Name: Ryusmay Character: Ryusmay
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Red Skull connected to the server
+[Area] Lavender [Knifedera]: "/tp alber"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198073378319 Name: Monstruo Comegalletas Character: Red Skull
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: BumBum connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198105710971 Name: elizarraraz.jesse Character: BumBum
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Mr_Sir1121 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198190968327 Name: hbcjenkins79 Character: Mr_Sir1121
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: DemoScout connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198152809703 Name: DemoScout Character: DemoScout
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: kendalltubbs22 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198154586623 Name: kendalltubbs22 Character: kendalltubbs22
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Red Skull disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198073378319 Name: Monstruo Comegalletas Character: Red Skull
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: The EST Gamer connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198168694930 Name: The EST Gamer Character: The EST Gamer
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: rediniowa5 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198133961210 Name: Rediniowa5 Character: rediniowa5
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Marcus connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198027302095 Name: Marcus Character: Marcus
+Lavender teleported to Alberton
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -509,27 +445,23 @@ MessageAnnouncer >> Be sure to check out our website unturned.plantdown.com
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Marcus disconnected from the server
+[Area] Lavender [Knifedera]: "/tp strat"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198027302095 Name: Marcus Character: Marcus
+Lavender teleported to Stratford
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: henriqueqwer connected to the server
+Broadcast: GabrielWiz connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198091463929 Name: henriqueqwer Character: henriqueqwer
+Connecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: henriqueqwer disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198091463929 Name: henriqueqwer Character: henriqueqwer
+[Area] Lavender [Knifedera]: "/heal"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -541,19 +473,15 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 12:29:45 PM
+Saved at 4/18/2015 4:49:42 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] rediniowa5 [Rediniowa5]: "brb"
+Broadcast: dankrey connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: rediniowa5 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198133961210 Name: Rediniowa5 Character: rediniowa5
+Connecting: PlayerID: 76561198190034759 Name: dankrey Character: dankrey
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -565,31 +493,35 @@ MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/520
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Red Skull connected to the server
+[World] dankrey [dankrey]: "hola"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198073378319 Name: Monstruo Comegalletas Character: Red Skull
+[World] dankrey [dankrey]: "hay alguienw"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: josealejandrogn24 connected to the server
+[Area] Lavender [Knifedera]: "/tp welling"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198138580805 Name: josealejandrogn24 Character: josealejandrogn24
+Lavender teleported to Wellington Farm
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Velonarus connected to the server
+[Area] Lavender [Knifedera]: "/tp alber"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198112447508 Name: RGA.Velonarus Character: Velonarus
+Lavender teleported to Alberton
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Velonarus [RGA.Velonarus]: "Hi"
+Broadcast: dankrey disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198190034759 Name: dankrey Character: dankrey
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -601,35 +533,23 @@ MessageAnnouncer >>  To collect your vote reward say /reward, you can do this on
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "hola"
+[Area] Lavender [Knifedera]: "/tp holman"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: JNJoke connected to the server
+Lavender teleported to Holman Isle
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198165521629 Name: JNJoke Character: JNJoke
+Broadcast: Comfy bro connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Velonarus [RGA.Velonarus]: "Hola"
+Connecting: PlayerID: 76561197990383947 Name: Comfy bro Character: Comfy bro
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "hola"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "aca arriba"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] zachary.wan90 [zachary.wan90]: "thx"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "hola"
+[World] GabrielWiz [GabrielWiz]: "/home"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -641,47 +561,39 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 12:34:45 PM
+Saved at 4/18/2015 4:54:42 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "hola"
+[Area] Lavender [Knifedera]: "/tp charlott"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "cachary"
+Lavender teleported to Charlottetown
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "za"
+Broadcast: Starlineitor connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "hablas español?"
+Connecting: PlayerID: 76561198169718057 Name: Starlineitor Character: Starlineitor
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "o speak inglish?"
+Broadcast: nine_max connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] zachary.wan90 [zachary.wan90]: "what?"
+Connecting: PlayerID: 76561198189898407 Name: nine_max Character: nine_max
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "a olvidalo hablas ingles"
+[Area] Lavender [Knifedera]: "/tp montag"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "hola"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Velonarus disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198112447508 Name: RGA.Velonarus Character: Velonarus
+Lavender teleported to Montague
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -693,127 +605,43 @@ MessageAnnouncer >> Anyone caught cheating or hacking will be banned!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "alguien habla español"
+[World] nine_max [nine_max]: "im falling"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "yo"
+[World] nine_max [nine_max]: "i fall from the sky"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: xThATwIErDGuYx connected to the server
+Broadcast: Starlineitor disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198185033729 Name: xThATwIErDGuYx Character: xThATwIErDGuYx
+Disconnecting: PlayerID: 76561198169718057 Name: Starlineitor Character: Starlineitor
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "yo hablko español"
+Broadcast: A military supply drop will be dropped Souris Campground in 5 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "donde estas?"
+Broadcast: Starlineitor connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: DemoScout disconnected from the server
+Connecting: PlayerID: 76561198169718057 Name: Starlineitor Character: Starlineitor
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198152809703 Name: DemoScout Character: DemoScout
+Broadcast: A military supply drop will be dropped Souris Campground in 4 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: SrPachorras connected to the server
+Broadcast: Starlineitor disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198134648448 Name: SrPachorras Character: SrPachorras
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "en el pu8ente roto"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] josealejandrogn24 [josealejandrogn24]: "stratfford"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] xThATwIErDGuYx [xThATwIErDGuYx]: "hello"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "veni al puente"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] josealejandrogn24 [josealejandrogn24]: "voy"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] kendalltubbs22 [kendalltubbs22]: "GET OUT"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Red Skull [Monstruo Comegalletas]: "WHy"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "hi"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: SrPachorras disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198134648448 Name: SrPachorras Character: SrPachorras
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-josealejandrogn24 [josealejandrogn24] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] xThATwIErDGuYx [xThATwIErDGuYx]: "hello"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: ermenor2002 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198191759379 Name: ermenor2002 Character: ermenor2002
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: SrPachorras connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198134648448 Name: SrPachorras Character: SrPachorras
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "why server kick me?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] ermenor2002 [ermenor2002]: "alguien habla español"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] kendalltubbs22 [kendalltubbs22]: "GETOUT"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "yo"
+Disconnecting: PlayerID: 76561198169718057 Name: Starlineitor Character: Starlineitor
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -825,7 +653,11 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 12:39:45 PM
+Saved at 4/18/2015 4:59:42 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Souris Campground in 3 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -837,71 +669,75 @@ MessageAnnouncer >> Join us on Teamspeak - survivalintincts.typefrag.com
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] SrPachorras [SrPachorras]: "asd"
+Broadcast: Woodley connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] ermenor2002 [ermenor2002]: "tenes skype"
+Connecting: PlayerID: 76561198045250242 Name: Woodley Character: Woodley
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Velonarus connected to the server
+Broadcast: Woodley disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198112447508 Name: RGA.Velonarus Character: Velonarus
+Disconnecting: PlayerID: 76561198045250242 Name: Woodley Character: Woodley
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Smitty Webenjagermanjens connected to the server
+Broadcast: Woodley connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198091808019 Name: sanic Character: Smitty Webenjagermanjens
+Connecting: PlayerID: 76561198045250242 Name: Woodley Character: Woodley
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] SrPachorras [SrPachorras]: "si"
+Broadcast: A military supply drop will be dropped Souris Campground in 2 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] ermenor2002 [ermenor2002]: "como te llamas"
+[Area] Lavender [Knifedera]: "It's PvE."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Confederation Bridge in 4 minutes!
+[World] nine_max [nine_max]: "pls dont kill me"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-josealejandrogn24 [josealejandrogn24] was mauled by a zombie!
+Broadcast: Arthur connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] ermenor2002 [ermenor2002]: "???"
+Connecting: PlayerID: 76561198161402829 Name: ArthurB.Biss Character: Arthur
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Smitty Webenjagermanjens [sanic]: "hi"
+[World] nine_max [nine_max]: "friendly"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Confederation Bridge in 3 minutes!
+[World] Lavender [Knifedera]: "PvE"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-josealejandrogn24 [josealejandrogn24] suffocated to death!
+Broadcast: A military supply drop will be dropped Souris Campground in 1 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Confederation Bridge in 2 minutes!
+Woodley [Woodley] was mauled by a zombie!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: [Fedora]StanCantFly connected to the server
+[World] Lavender [Knifedera]: "Stop running. -.- I can't hurt you even if I wanted to."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198103048053 Name: [Fedora]StanCa Character: [Fedora]StanCantFly
+Broadcast: A military supply drop has been dropped at Souris Campground!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Zamirathe_Feast >> The next feast will be at Fernwood Farm at 4/18/2015 5:21:32 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -913,75 +749,43 @@ MessageAnnouncer >> Don't forget  the server ip: play.plantdown.com
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] SrPachorras [SrPachorras]: "asd"
+Broadcast: Bike Man (Metal Smithy) connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Kratos, God Of Bacon connected to the server
+Connecting: PlayerID: 76561198151129091 Name: Bike Man Character: Bike Man (Metal Smithy)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198112479144 Name: Kratos, God Of Bacon Character: Kratos, God Of Bacon
+[World] GabrielWiz [GabrielWiz]: "Hello lavender"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Confederation Bridge in 1 minutes!
+Broadcast: virtualcarter connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Red Skull disconnected from the server
+Connecting: PlayerID: 76561198107248596 Name: Virtualcarter Character: virtualcarter
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198073378319 Name: Monstruo Comegalletas Character: Red Skull
+[Group] Bike Man (Metal Smithy) [Bike Man]: "hey!"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Kratos, God Of Bacon [Kratos, God Of Bacon]: "any1 at mili base"
+[World] nine_max [nine_max]: "tnx"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Velonarus [RGA.Velonarus]: "Hi"
+[World] Lavender [Knifedera]: "Toggle those with N -- Ey"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop has been dropped at Confederation Bridge!
+[World] Bike Man (Metal Smithy) [Bike Man]: "yayy servers back up"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Zamirathe_Feast >> The next feast will be at Kensington Campground at 4/18/2015 12:54:35 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] xThATwIErDGuYx [xThATwIErDGuYx]: "hello"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] ermenor2002 [ermenor2002]: "hi"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] josealejandrogn24 [josealejandrogn24]: "hola"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Smitty Webenjagermanjens [sanic] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "hola"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Kratos, God Of Bacon [Kratos, God Of Bacon] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] josealejandrogn24 [josealejandrogn24]: "soy tu negro"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: ":3"
+[World] nine_max [nine_max]: "wait"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -993,59 +797,19 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 12:44:45 PM
+Saved at 4/18/2015 5:04:42 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] ermenor2002 [ermenor2002]: "yuwww"
+[World] Lavender [Knifedera]: "Don't need any meds. :p"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] SrPachorras [SrPachorras]: "vamos a buscarte ropa en la prision"
+[World] Lavender [Knifedera]: "/heal"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Smitty Webenjagermanjens [sanic]: "Who speaks english"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] josealejandrogn24 [josealejandrogn24]: "que quieres que haga"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Kratos, God Of Bacon [Kratos, God Of Bacon]: "I do"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Smitty Webenjagermanjens [sanic]: "Thank the lord"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Kratos, God Of Bacon [Kratos, God Of Bacon]: "lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "queres sorbrevivir?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: zachary.wan90 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198121114087 Name: zachary.wan90 Character: zachary.wan90
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "hola?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "seguime"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] josealejandrogn24 [josealejandrogn24]: "si"
+[World] nine_max [nine_max]: "sorry"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1057,83 +821,111 @@ MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/520
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] BumBum [elizarraraz.jesse]: "/home"
+[World] Lavender [Knifedera]: "/tp bike man"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Kratos, God Of Bacon [Kratos, God Of Bacon]: "What do i get when voting?"
+Lavender teleported to Bike Man (Metal Smithy)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Mr_Sir1121 disconnected from the server
+[Group] Bike Man (Metal Smithy) [Bike Man]: "hey hey!"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198190968327 Name: hbcjenkins79 Character: Mr_Sir1121
+[Group] Bike Man (Metal Smithy) [Bike Man]: "back in group"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Velonarus [RGA.Velonarus]: "Hope that 1 day you will die....."
+[Group] Lavender [Knifedera]: "Back in dah group mah homie"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Velonarus [RGA.Velonarus]: "Jk"
+[Group] Lavender [Knifedera]: "Almost have a full blue costume now."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] SrPachorras [SrPachorras]: "agarra armas"
+[Group] Bike Man (Metal Smithy) [Bike Man]: "i seem to have lost a lot of inventory"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "ok"
+Ryusmay [Ryusmay] was mauled by a zombie!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Kratos, God Of Bacon [Kratos, God Of Bacon]: "Worth it in teh zombie apocolypse!"
+[Area] Lavender [Knifedera]: "Left a daypack in the generator one."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Kratos, God Of Bacon [Kratos, God Of Bacon]: "gtg"
+Ryusmay [Ryusmay] killed themself.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Kratos, God Of Bacon disconnected from the server
+Broadcast: Galvantula connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198112479144 Name: Kratos, God Of Bacon Character: Kratos, God Of Bacon
+Connecting: PlayerID: 76561198078627799 Name: Galvantula Character: Galvantula
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "gracias"
+PhysicsSDK: NpActor::setGlobalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 803)
+
+Ryusmay [Ryusmay] killed themself.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] SrPachorras [SrPachorras]: "vamos a charlottetown"
+Broadcast: Stevegamer13 connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] SrPachorras [SrPachorras]: "hay suficiente para todo"
+Connecting: PlayerID: 76561198189818606 Name: Stevegamer13 Br Character: Stevegamer13
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "ok"
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+[World] Galvantula [Galvantula]: "caeter bae"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Smitty Webenjagermanjens disconnected from the server
+Broadcast: Stevegamer13 disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198091808019 Name: sanic Character: Smitty Webenjagermanjens
+Disconnecting: PlayerID: 76561198189818606 Name: Stevegamer13 Br Character: Stevegamer13
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: DIRTY DAN connected to the server
+[World] virtualcarter [Virtualcarter]: "Shut up xD"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561197972987252 Name: DIRTY DAN Character: DIRTY DAN
+[World] Galvantula [Galvantula]: "where u at do"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] virtualcarter [Virtualcarter]: "In me mums car."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "/tp carter"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to virtualcarter
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] virtualcarter [Virtualcarter]: "Jesus."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "what do the beat do"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1145,7 +937,39 @@ MessageAnnouncer >>  To collect your vote reward say /reward, you can do this on
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Kensington Campground in 5 minutes!
+[Area] Lavender [Knifedera]: "Am I scurry?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] virtualcarter [Virtualcarter]: "Ur mum Alex, ur mum"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] virtualcarter [Virtualcarter]: "Yes"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "=p"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "I can go full blue now (aside from pants; those never change.)"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "thats not nice"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: batman connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198176548978 Name: kincaderichards Character: batman
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] batman [kincaderichards]: "hi"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1157,187 +981,31 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 12:49:45 PM
+Saved at 4/18/2015 5:09:42 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Kensington Campground in 4 minutes!
+Galvantula [Galvantula] was mauled by a zombie!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] The EST Gamer [The EST Gamer]: "found the supply drop"
+[Area] Lavender [Knifedera]: "I need a barrel instead of the suppressor. lol"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-josealejandrogn24 [josealejandrogn24] was mauled by a zombie!
+Broadcast: maffei6847 connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: o,0 connected to the server
+Connecting: PlayerID: 76561198191500689 Name: maffei6847 Character: maffei6847
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198070080326 Name: o,0 Character: o,0
+Broadcast: felipeaugusto_fischer connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: kendalltubbs22 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198154586623 Name: kendalltubbs22 Character: kendalltubbs22
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "moriste?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] o,0 [o,0]: "/balance"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Kensington Campground in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Remember this server is PvE only, so you can't kill others here.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Remember this server is PvE only, so you can't kill others here.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "hola?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Yan connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198078114765 Name: Yan Character: Yan
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] The EST Gamer [The EST Gamer]: "selling cheetah"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] o,0 [o,0]: "they nerfed the maplestrike?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] The EST Gamer [The EST Gamer]: "selling cheetah"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Kensington Campground in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] josealejandrogn24 [josealejandrogn24]: "estoy en albert"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Velonarus [RGA.Velonarus]: "No , your maplestrike is probably need to repair"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "yo en la misma ciudad de antes"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] The EST Gamer [The EST Gamer]: "english please"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "ok"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: SrPachorras disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198134648448 Name: SrPachorras Character: SrPachorras
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] josealejandrogn24 [josealejandrogn24]: "vienes o voy?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Kensington Campground in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: SrPachorras connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198134648448 Name: SrPachorras Character: SrPachorras
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] SrPachorras [SrPachorras]: "sorry"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Kensington Campground!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Zamirathe_Feast >> The next feast will be at Courtin Isle at 4/18/2015 1:10:40 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Please remember to always speak english in the main chat!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Please remember to always speak english in the main chat!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 12:54:45 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-xThATwIErDGuYx [xThATwIErDGuYx] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] DIRTY DAN [DIRTY DAN]: "Laaag!"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: xThATwIErDGuYx disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198185033729 Name: xThATwIErDGuYx Character: xThATwIErDGuYx
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] The EST Gamer [The EST Gamer]: "selling cheetah and prowler"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: BigBeast2288 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198090601687 Name: BigBeast2288 Character: BigBeast2288
+Connecting: PlayerID: 76561198222997232 Name: FelipeGamer735 Character: felipeaugusto_fischer
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1361,51 +1029,71 @@ at SDG.Steam.Update () <0x00029>
  
 (Filename:  Line: -1)
 
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+Broadcast: Remember this server is PvE only, so you can't kill others here.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+MessageAnnouncer >> Remember this server is PvE only, so you can't kill others here.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "soy tu negro"
+Ryusmay [Ryusmay] was mauled by a zombie!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] [Fedora]StanCantFly [[Fedora]StanCa]: "English?"
+[Area] virtualcarter [Virtualcarter]: "Kere"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "no :("
+[Area] virtualcarter [Virtualcarter]: "Here"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] [Fedora]StanCantFly [[Fedora]StanCa]: ":p"
+[Area] Lavender [Knifedera]: ":3"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: BigBeast2288 disconnected from the server
+Broadcast: maffei6847 disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198090601687 Name: BigBeast2288 Character: BigBeast2288
+Disconnecting: PlayerID: 76561198191500689 Name: maffei6847 Character: maffei6847
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: ermenor2002 disconnected from the server
+[Area] virtualcarter [Virtualcarter]: "No-scoping is ridiculously easy with barrel, foreggrip and laser"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198191759379 Name: ermenor2002 Character: ermenor2002
+Broadcast: batman disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Yan [Yan]: "trading nvg for medic top"
+Disconnecting: PlayerID: 76561198176548978 Name: kincaderichards Character: batman
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "thanbks"
+[Area] virtualcarter [Virtualcarter]: "You are welcome."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: felipeaugusto_fischer disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198222997232 Name: FelipeGamer735 Character: felipeaugusto_fischer
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arthur [ArthurB.Biss]: "VALEU"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arthur [ArthurB.Biss]: "THAX"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] virtualcarter [Virtualcarter]: ":D"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1417,31 +1105,185 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 12:59:45 PM
+Saved at 4/18/2015 5:14:42 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "hola"
+Broadcast: Please remember to always speak english in the main chat!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] BumBum [elizarraraz.jesse]: "hola"
+MessageAnnouncer >> Please remember to always speak english in the main chat!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "hi"
+[World] Ryusmay [Ryusmay]: "ty"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "hablas español?"
+[World] Arthur [ArthurB.Biss]: "thax"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] BumBum [elizarraraz.jesse]: "si"
+[Area] Lavender [Knifedera]: "/tp ryusmay"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "hola"
+Lavender teleported to Ryusmay
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] virtualcarter [Virtualcarter]: "Alex."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] virtualcarter [Virtualcarter]: "Where are ya?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "/tp carter"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to virtualcarter
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Fernwood Farm in 5 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+nine_max [nine_max] dehydrated to death!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Fernwood Farm in 4 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "/god"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender enabled Godmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Rocket.RocketAPI.RocketPlayerFeatures.set_GodMode (Boolean value) [0x00000] in <filename unknown>:0 
+  at Rocket.Commands.CommandGod.Execute (Rocket.RocketAPI.RocketPlayer caller, System.String command) [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.RocketCommandBase.execute (CSteamID caller, System.String command) [0x00000] in <filename unknown>:0 
+  at SDG.Command.check (CSteamID x, System.String D, System.String R) [0x00000] in <filename unknown>:0 
+  at SDG.Commander.execute (CSteamID Y, System.String x) [0x00000] in <filename unknown>:0 
+  at SDG.ChatManager.process (SDG.SteamPlayer R, System.String r) [0x00000] in <filename unknown>:0 
+  at SDG.ChatManager.askChat (CSteamID x, Byte h, System.String w) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Area] Lavender [Knifedera]: "/god"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender enabled Godmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Rocket.RocketAPI.RocketPlayerFeatures.set_GodMode (Boolean value) [0x00000] in <filename unknown>:0 
+  at Rocket.Commands.CommandGod.Execute (Rocket.RocketAPI.RocketPlayer caller, System.String command) [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.RocketCommandBase.execute (CSteamID caller, System.String command) [0x00000] in <filename unknown>:0 
+  at SDG.Command.check (CSteamID x, System.String D, System.String R) [0x00000] in <filename unknown>:0 
+  at SDG.Commander.execute (CSteamID Y, System.String x) [0x00000] in <filename unknown>:0 
+  at SDG.ChatManager.process (SDG.SteamPlayer R, System.String r) [0x00000] in <filename unknown>:0 
+  at SDG.ChatManager.askChat (CSteamID x, Byte h, System.String w) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Area] Lavender [Knifedera]: "/heal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Fernwood Farm in 3 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] virtualcarter [Virtualcarter]: "Dat distraction."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "Da best"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: GabrielWiz disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Woodley [Woodley]: "Hi."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] virtualcarter [Virtualcarter]: "Hello."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Fernwood Farm in 2 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/heal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 5:19:42 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] virtualcarter [Virtualcarter]: "After, wanna see my secret gun stash?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Fernwood Farm in 1 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1453,63 +1295,59 @@ MessageAnnouncer >>  To collect your vote reward say /reward, you can do this on
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "tienen casas?"
+[Area] Lavender [Knifedera]: "Tu parles francais?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] BumBum [elizarraraz.jesse]: "esta xD"
+[Area] Lavender [Knifedera]: ":p"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: SrPachorras disconnected from the server
+[World] virtualcarter [Virtualcarter]: "Un petit peu."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198134648448 Name: SrPachorras Character: SrPachorras
+Broadcast: A military supply drop has been dropped at Fernwood Farm!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "XD"
+Zamirathe_Feast >> The next feast will be at Courtin Isle at 4/18/2015 5:35:16 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "soy pobre"
+[Area] Lavender [Knifedera]: "Hue"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] BumBum [elizarraraz.jesse]: "apenas comense"
+[Area] virtualcarter [Virtualcarter]: "Des nasty tomatoes."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] BumBum [elizarraraz.jesse]: "so no esta muy grande"
+[Area] Lavender [Knifedera]: "Brb."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "soy tu negro"
+[Area] Lavender [Knifedera]: "/tp ryusmay"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] BumBum [elizarraraz.jesse]: "XD"
+Lavender teleported to Ryusmay
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] BumBum [elizarraraz.jesse]: "XD"
+[Area] Lavender [Knifedera]: "/tp carter"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] josealejandrogn24 [josealejandrogn24]: "si quieres te la meto"
+Lavender teleported to virtualcarter
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: josealejandrogn24 disconnected from the server
+[World] Arthur [ArthurB.Biss]: "hi"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198138580805 Name: josealejandrogn24 Character: josealejandrogn24
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] The EST Gamer [The EST Gamer]: "/home"
+[World] Arthur [ArthurB.Biss]: "hi"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1521,15 +1359,7 @@ MessageAnnouncer >> We will be hiring more people to the staff team soon!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: BumBum disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198105710971 Name: elizarraraz.jesse Character: BumBum
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] The EST Gamer [The EST Gamer]: "selling cheetah and prowler"
+[Area] Lavender [Knifedera]: "Yey"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1541,43 +1371,43 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 1:04:45 PM
+Saved at 4/18/2015 5:24:42 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Courtin Isle in 5 minutes!
+[World] nine_max [nine_max]: "i have 16x scope"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "hola stan"
+[Area] virtualcarter [Virtualcarter]: "Fuck..."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] [Fedora]StanCantFly [[Fedora]StanCa]: "Ello"
+[World] virtualcarter [Virtualcarter]: "Well, someone destroyed my vault."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] o,0 [o,0]: "who died in fermwood"
+[Area] Lavender [Knifedera]: ":<"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] [Fedora]StanCantFly [[Fedora]StanCa]: "Police has same inventory space"
+[World] nine_max [nine_max]: "woodley do you have civilian box"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] JNJoke [JNJoke]: "pillalo"
+[Area] virtualcarter [Virtualcarter]: "There goes my Thunderbolt+4 mags, two Oryx and a Longhorn."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Yan [Yan]: "trading nvg for medic top"
+[World] Woodley [Woodley]: "NBo, sorry"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] JNJoke [JNJoke]: "ah?"
+[Area] virtualcarter [Virtualcarter]: "/reward"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Courtin Isle in 4 minutes!
+[World] Lavender [Knifedera]: "RIP. :/"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1589,27 +1419,91 @@ MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/520
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Courtin Isle in 3 minutes!
+[Area] virtualcarter [Virtualcarter]: "It was in this tree..."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Yan disconnected from the server
+[World] Arthur [ArthurB.Biss]: "hi"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198078114765 Name: Yan Character: Yan
+[Area] virtualcarter [Virtualcarter]: "I guess whoever built this base destroyed it"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "bye+"
+[World] Woodley [Woodley]: "Nine do you have any medicine, I found civ box"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Courtin Isle in 2 minutes!
+[World] nine_max [nine_max]: "yeah"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Courtin Isle in 1 minutes!
+[World] Woodley [Woodley]: "drop"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Woodley [Woodley]: "Thanks"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "do you need guns"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "Look up."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Woodley [Woodley]: "That would be cool, yeah"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] virtualcarter [Virtualcarter]: "Nice"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] virtualcarter [Virtualcarter]: "On top of the tree."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "I am sky-bound!"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "Yee"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Woodley [Woodley]: "I need anything really"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "im pointing at it"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "I love heights in this game. Hate em IRL"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] virtualcarter [Virtualcarter]: "Well, I'm pissed off."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] virtualcarter [Virtualcarter]: "Bye."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 5:29:43 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1621,31 +1515,31 @@ MessageAnnouncer >>  To collect your vote reward say /reward, you can do this on
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Server saved.
+[Area] Lavender [Knifedera]: "Later. :/"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Player Statistics have been saved
+[World] nine_max [nine_max]: "becareful"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 1:09:45 PM
+Broadcast: A military supply drop will be dropped Courtin Isle in 5 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop has been dropped at Courtin Isle!
+Broadcast: virtualcarter disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Zamirathe_Feast >> The next feast will be at Charlottetown at 4/18/2015 1:24:05 PM
+Disconnecting: PlayerID: 76561198107248596 Name: Virtualcarter Character: virtualcarter
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: The EST Gamer disconnected from the server
+Broadcast: A military supply drop will be dropped Courtin Isle in 4 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198168694930 Name: The EST Gamer Character: The EST Gamer
+Broadcast: A military supply drop will be dropped Courtin Isle in 3 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1657,39 +1551,23 @@ MessageAnnouncer >> Be sure to join our Steam group Unturned Survival Instincts
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Velonarus [RGA.Velonarus]: "Stan"
+Broadcast: A military supply drop will be dropped Courtin Isle in 2 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Velonarus [RGA.Velonarus]: "Do you have ducktape???"
+[World] Woodley [Woodley]: "brb"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] [Fedora]StanCantFly [[Fedora]StanCa]: "No, sorry"
+[World] nine_max [nine_max]: "press f"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Velonarus [RGA.Velonarus]: "Thank you"
+[World] nine_max [nine_max]: "on the bed"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: "lag"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "casi muero"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Velonarus [RGA.Velonarus]: "Good luck dude"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] o,0 [o,0]: "gascan in charlotte town"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] JNJoke [JNJoke]: "ono"
+Broadcast: A military supply drop will be dropped Courtin Isle in 1 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1701,11 +1579,27 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 1:14:45 PM
+Saved at 4/18/2015 5:34:43 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] JNJoke [JNJoke]: ".-."
+Broadcast: A military supply drop has been dropped at Courtin Isle!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Zamirathe_Feast >> The next feast will be at Confederation Bridge at 4/18/2015 5:49:48 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Lavender [Knifedera]: "/tp courtin"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Courtin Isle
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "woodley"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1717,11 +1611,575 @@ MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/520
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: REYTINIEBLAS1 disconnected from the server
+[World] Lavender [Knifedera]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198151944024 Name: REYTINIEBLAS1 Character: REYTINIEBLAS1
+[World] Lavender [Knifedera]: "Anyone want to buy a full mili crate for 5 points?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "how do i buy"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "/reward"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: nine_max voted on unturned-servers.net and received the "Medical" bundle
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "It'd be with /pay Username/Amount"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Comfy bro disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561197990383947 Name: Comfy bro Character: Comfy bro
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "Or, from the shop, /buy i.ID if it's in it."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "-/cost i.ID to check price."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Woodley [Woodley]: "Im back. thanks for waiting"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Ryusmay [Ryusmay]: "/reward"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Ryusmay voted on unturned-servers.net and received the "Ammo" bundle
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "vote"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/cost i.Military Am"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 5:39:43 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Woodley disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198045250242 Name: Woodley Character: Woodley
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp bike man"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Bike Man (Metal Smithy)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/cost i.daypack"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/cost i.red day"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: To check your wallet say /balance
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> To check your wallet say /balance
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp ryusmay"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Ryusmay
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp homan"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp holman"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Holman Isle
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+nine_max [nine_max] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "Who literally just died at Holman?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+nine_max [nine_max] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+nine_max [nine_max] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 803)
+
+nine_max [nine_max] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Ryusmay [Ryusmay]: "/balance"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "i died"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "whos at holman"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tphere nine_max"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+nine_max was teleported to Lavender
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] nine_max [nine_max]: "tnx"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 5:44:43 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Every day your online will earn 20 Canadian Dollars
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Every day your online will earn 20 Canadian Dollars
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 5 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp confed"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Confederation Bridge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 4 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/heal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 3 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 2 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Bike Man (Metal Smithy) disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198151129091 Name: Bike Man Character: Bike Man (Metal Smithy)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Ryusmay disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198081759657 Name: Ryusmay Character: Ryusmay
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/heal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 1 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 5:49:43 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Confederation Bridge!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Zamirathe_Feast >> The next feast will be at Confederation Bridge at 4/18/2015 6:06:40 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp alber"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Alberton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp confed"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Confederation Bridge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Canadian Dollars can be spent in the item mall, visit tycoon-city.com for commands.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Canadian Dollars can be spent in the item mall, visit tycoon-city.com for commands.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Galvantula [Galvantula] bled to death!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Galvantula [Galvantula] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 5:54:43 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Galvantula [Galvantula] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpActor::setMass: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 173)
+
+[World] Galvantula [Galvantula]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/heal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Arthur disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198161402829 Name: ArthurB.Biss Character: Arthur
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Our server restarts every two hour, a warning message will be sent 5 minutes before it restarts.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Our server restarts every two hour, a warning message will be sent 5 minutes before it restarts.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Galvantula [Galvantula] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 5:59:43 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/heal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: nine_max disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198189898407 Name: nine_max Character: nine_max
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp galvant"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Galvantula
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 5 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "y u naked"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "because im rockin out with ma cock out"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 4 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "tnx do u have a bandage"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "If you died somewhere, lemme know and I can tp you there."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "k thanks"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "im bleeding out right now so]"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 3 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "ok it stopped"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "If you want to suicide, I can TP you back here. lol"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 2 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 6:04:43 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "im gonna loot this"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "Ranger drum and 7x is what I saw. Got neither."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp confed"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Confederation Bridge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Confederation Bridge in 1 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  Be sure to check out the forums http://forums.tycoon-city.com/index.php
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  Be sure to check out the forums http://forums.tycoon-city.com/index.php
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "ok"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Galvantula [Galvantula] suffocated to death!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "nooo i died at the sub"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "dont tp me yet"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Confederation Bridge!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Zamirathe_Feast >> The next feast will be at Wiltshire Farm at 4/18/2015 6:18:02 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp cape"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Cape Rock
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp confed"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Confederation Bridge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Galvantula [Galvantula]: "im beside the bridge"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lavender [Knifedera]: "/tp galvan"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Lavender teleported to Galvantula
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
