@@ -6,8 +6,8 @@
   <NoVehicleMsg>I'm sorry {0}, but you can't be teleported while inside a vehicle.</NoVehicleMsg>
   <TeleportWait>true</TeleportWait>
   <WaitGroups>
-  <HomeGroup Id="all" Wait ="10" />
-   </WaitGroups>
+    <HomeGroup Id="all" Wait="10" />
+  </WaitGroups>
   <TeleportMsg>You were sent back to your bed.</TeleportMsg>
   <FoundBedNowWaitMsg>I have located your bed {0}, please wait for {1} seconds to be teleported.</FoundBedNowWaitMsg>
   <MovementRestriction>true</MovementRestriction>
