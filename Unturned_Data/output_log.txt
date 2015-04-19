@@ -9936,3 +9936,19 @@ Broadcast: A military supply drop will be dropped Wiltshire Farm in 1 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
+Broadcast: A military supply drop has been dropped at Wiltshire Farm!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Zamirathe_Feast >> The next feast will be at Belfast Airport at 4/19/2015 1:32:35 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "gonna recall, Cheese"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
