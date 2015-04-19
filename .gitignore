@@ -232,3 +232,8 @@ Servers/myfancyserver/Level/PEI/Structures.dat
 Servers/myfancyserver/Level/PEI/Barricades.dat
 Unturned_Data/output_log.txt
 Bundles/Items/*
+Servers/myfancyserver/Level/PEI/Barricades.dat
+*.dat
+Unturned_Data/Managed/Assembly-CSharp.dll
+Unturned_Data/Managed/Assembly-CSharp.dll
+*.dat
