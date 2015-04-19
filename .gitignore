@@ -227,3 +227,7 @@ Unturned_Data/output_log.txt
 Unturned_Data/Managed/Assembly-CSharp.dll
 *.txt
 Unturned_Data/Managed/UnityEngine.dll
+Servers/myfancyserver/Level/PEI/Barricades.dat
+Servers/myfancyserver/Level/PEI/Structures.dat
+Servers/myfancyserver/Level/PEI/Barricades.dat
+Unturned_Data/output_log.txt

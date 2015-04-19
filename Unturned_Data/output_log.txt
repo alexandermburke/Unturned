@@ -21,7 +21,7 @@ Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturn
 Loading C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
 Loading C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
-- Completed reload, in  0.070 seconds
+- Completed reload, in  0.048 seconds
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.dll (this message is harmless)
 The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/mainData' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 116332 > 116328]
@@ -125,25 +125,25 @@ The ID 820 for EXE_VSSVintorez is already taken by EXE_VSSVintorez!
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1313 unused Assets to reduce memory usage. Loaded Objects now: 32497.
-Total: 17.513397 ms (FindLiveObjects: 2.093282 ms CreateObjectMapping: 5.620826 ms MarkObjects: 7.293943 ms  DeleteObjects: 2.221232 ms)
+Total: 15.436598 ms (FindLiveObjects: 1.783187 ms CreateObjectMapping: 4.176787 ms MarkObjects: 7.101181 ms  DeleteObjects: 2.078197 ms)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Xml.dll (this message is harmless)
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Configuration.dll (this message is harmless)
-The server will automaticly shutdown in 7200 seconds (4/18/2015 10:44:32 PM UTC)
+The server will automaticly shutdown in 7200 seconds (4/19/2015 4:11:15 AM UTC)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-UnloadTime: 3.563860 ms
+UnloadTime: 3.257117 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 32515.
-Total: 13.572117 ms (FindLiveObjects: 2.046908 ms CreateObjectMapping: 3.920330 ms MarkObjects: 7.254832 ms  DeleteObjects: 0.084088 ms)
+Total: 13.060039 ms (FindLiveObjects: 1.923708 ms CreateObjectMapping: 3.397079 ms MarkObjects: 7.390045 ms  DeleteObjects: 0.084368 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 32555.
-Total: 51.609913 ms (FindLiveObjects: 1.722565 ms CreateObjectMapping: 3.316343 ms MarkObjects: 46.223194 ms  DeleteObjects: 0.089396 ms)
+Total: 46.545582 ms (FindLiveObjects: 1.706641 ms CreateObjectMapping: 3.261308 ms MarkObjects: 41.227306 ms  DeleteObjects: 0.094146 ms)
 
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\I18N.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\I18N.West.dll (this message is harmless)
@@ -151,62 +151,62 @@ Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Se
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Data.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Management.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Transactions.dll (this message is harmless)
-Non platform assembly: data-06CD7F28 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CD7F28.dll
+Non platform assembly: data-2AA7DC08 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AA7DC08.dll
 AntiSuicide Version: 1.0.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06CD9930 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CD9930.dll
+Non platform assembly: data-2AA93C90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AA93C90.dll
 autosave Version: 1.0.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06CDAF38 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CDAF38.dll
+Non platform assembly: data-2AA95298 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AA95298.dll
 GlobalBan Version: 1.4.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06CDD940 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CDD940.dll
+Non platform assembly: data-2AA97CA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AA97CA0.dll
 Zamirathe_HomeCommand Version: 2.0.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06CE3D48 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CE3D48.dll
+Non platform assembly: data-2AA9A0A8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AA9A0A8.dll
 MessageAnnouncer Version: 1.5.0.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06CE5150 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CE5150.dll
+Non platform assembly: data-06C49988 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06C49988.dll
 Uconomy Version: 1.0.4.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2BCB0048 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BCB0048.dll
+Non platform assembly: data-2AA9C4B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AA9C4B0.dll
 Votifier Version: 1.3.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2BCB3250 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BCB3250.dll
+Non platform assembly: data-06C4C190 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06C4C190.dll
 Zamirathe_Feast Version: 2.0.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2BCB7A58 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BCB7A58.dll
+Non platform assembly: data-2AAA36B8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AAA36B8.dll
 Zamirathe_HomeCommand Version: 2.1.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2BCBA460 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BCBA460.dll
+Non platform assembly: data-2AAA60C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AAA60C0.dll
 ZaupShop Version: 1.0.1.10
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
@@ -321,22 +321,22 @@ MessageAnnouncer >> Use /home to teleport to your claimed bed!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Zamirathe_Feast >> The next feast will be at Souris Campground at 4/18/2015 5:02:42 PM
+Zamirathe_Feast >> The next feast will be at Charlottetown at 4/18/2015 10:24:08 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2BD3F6B0 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BD3F6B0.dll
-Non platform assembly: data-2BD522B8 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BD522B8.dll
-Non platform assembly: data-2BD5AEC0 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BD5AEC0.dll
-Non platform assembly: data-2A0F0020 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2A0F0020.dll
-Non platform assembly: data-2BDDD4C8 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BDDD4C8.dll
-Non platform assembly: data-2BEEC710 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2BEEC710.dll
+Non platform assembly: data-2AB09600 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AB09600.dll
+Non platform assembly: data-2AB1B208 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AB1B208.dll
+Non platform assembly: data-2AB24E10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AB24E10.dll
+Non platform assembly: data-2C200020 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C200020.dll
+Non platform assembly: data-2ABA0418 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2ABA0418.dll
+Non platform assembly: data-2AC14E28 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2AC14E28.dll
 The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 6490136 > 6490132]
  
@@ -412,28 +412,44 @@ The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/r
  
 (Filename:  Line: 273)
 
-Broadcast: Lavender connected to the server
+Broadcast: GabrielWiz connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198126157171 Name: Knifedera Character: Lavender
+Connecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Mono.Security.dll (this message is harmless)
-Broadcast: Ryusmay connected to the server
+Broadcast: Bam connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198081759657 Name: Ryusmay Character: Ryusmay
+Connecting: PlayerID: 76561198189170690 Name: Bam Character: Bam
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "/tp alber"
+[World] GabrielWiz [GabrielWiz]: "nvm"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Lavender teleported to Alberton
+[World] Bam [Bam]: "(:<"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "#alone"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] GabrielWiz [GabrielWiz]: "#ImAlive"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Bike Man connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198151129091 Name: Bike Man Character: Bike Man
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -445,23 +461,75 @@ MessageAnnouncer >> Be sure to check out our website unturned.plantdown.com
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "/tp strat"
+[World] Bam [Bam]: "Bike!"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Lavender teleported to Stratford
+[World] GabrielWiz [GabrielWiz]: "#ImNotAGhost"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: GabrielWiz connected to the server
+[World] Bam [Bam]: "Ah i can't"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
+[World] Bike Man [Bike Man]: "hi hi"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "/heal"
+[Group] Bam [Bam]: "dupe"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] GabrielWiz [GabrielWiz]: "omw"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "my game won't close"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "just make the new crates"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "np im going"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "alt+f4 doesn't work for me"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "yay"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "ty"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: alasgone connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198140229281 Name: alasgone Character: alasgone
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: PhantomsHand connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198112053262 Name: PhantomsHand Character: PhantomsHand
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Maybe we should make them closer"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "why i had to place the crate so damn far"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -473,15 +541,39 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 4:49:42 PM
+Saved at 4/18/2015 10:16:23 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: dankrey connected to the server
+Broadcast: Ezmershiko connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198190034759 Name: dankrey Character: dankrey
+Connecting: PlayerID: 76561198138362894 Name: Ezmershiko Character: Ezmershiko
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Andou 10 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198168550681 Name: Andou 10 Character: Andou 10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "yeah but u need them"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Bike Man disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198151129091 Name: Bike Man Character: Bike Man
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "i love how music bring back memories"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -490,262 +582,6 @@ Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and cli
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] dankrey [dankrey]: "hola"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] dankrey [dankrey]: "hay alguienw"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp welling"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Wellington Farm
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp alber"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Alberton
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: dankrey disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198190034759 Name: dankrey Character: dankrey
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp holman"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Holman Isle
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Comfy bro connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561197990383947 Name: Comfy bro Character: Comfy bro
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "/home"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 4:54:42 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp charlott"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Charlottetown
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Starlineitor connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198169718057 Name: Starlineitor Character: Starlineitor
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: nine_max connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198189898407 Name: nine_max Character: nine_max
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp montag"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Montague
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Anyone caught cheating or hacking will be banned!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Anyone caught cheating or hacking will be banned!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "im falling"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "i fall from the sky"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Starlineitor disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198169718057 Name: Starlineitor Character: Starlineitor
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Souris Campground in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Starlineitor connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198169718057 Name: Starlineitor Character: Starlineitor
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Souris Campground in 4 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Starlineitor disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198169718057 Name: Starlineitor Character: Starlineitor
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 4:59:42 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Souris Campground in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Join us on Teamspeak - survivalintincts.typefrag.com
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Join us on Teamspeak - survivalintincts.typefrag.com
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Woodley connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198045250242 Name: Woodley Character: Woodley
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Woodley disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198045250242 Name: Woodley Character: Woodley
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Woodley connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198045250242 Name: Woodley Character: Woodley
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Souris Campground in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "It's PvE."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "pls dont kill me"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Arthur connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198161402829 Name: ArthurB.Biss Character: Arthur
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "friendly"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "PvE"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Souris Campground in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Woodley [Woodley] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "Stop running. -.- I can't hurt you even if I wanted to."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Souris Campground!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Zamirathe_Feast >> The next feast will be at Fernwood Farm at 4/18/2015 5:21:32 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Don't forget  the server ip: play.plantdown.com
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Don't forget  the server ip: play.plantdown.com
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -757,7 +593,55 @@ Connecting: PlayerID: 76561198151129091 Name: Bike Man Character: Bike Man (Meta
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] GabrielWiz [GabrielWiz]: "Hello lavender"
+Broadcast: GabrielWiz disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "Hey Bike!"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Ezmershiko [Ezmershiko]: "lol"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Ezmershiko [Ezmershiko]: "xDDD"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] PhantomsHand [PhantomsHand]: "bam"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "What's up"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: GabrielWiz connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Ezmershiko [Ezmershiko]: "ok"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] PhantomsHand [PhantomsHand]: "since the new map where did your base go ?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Matyverde:3 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198192423631 Name: Matyverde:3 Character: Matyverde:3
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -769,163 +653,227 @@ Connecting: PlayerID: 76561198107248596 Name: Virtualcarter Character: virtualca
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Group] Bike Man (Metal Smithy) [Bike Man]: "hey!"
+[World] Bike Man (Metal Smithy) [Bike Man]: "had to clear strats to log in smithy"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] nine_max [nine_max]: "tnx"
+[World] Bam [Bam]: "Uh"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Lavender [Knifedera]: "Toggle those with N -- Ey"
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Area] Ezmershiko [Ezmershiko]: "nonono"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Bike Man (Metal Smithy) [Bike Man]: "yayy servers back up"
+[World] Bam [Bam]: "Well I live in the sky but I have a ground"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] nine_max [nine_max]: "wait"
+[Group] Bam [Bam]: "Ty <3"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Server saved.
+[World] virtualcarter [Virtualcarter]: "/home"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Player Statistics have been saved
+[Area] Ezmershiko [Ezmershiko]: "sal e intenta entrar"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 5:04:42 PM
+[World] PhantomsHand [PhantomsHand]: "may i live with you"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Lavender [Knifedera]: "Don't need any meds. :p"
+[World] virtualcarter [Virtualcarter]: "/home"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Lavender [Knifedera]: "/heal"
+[Group] GabrielWiz [GabrielWiz]: "will u place a second crate?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] nine_max [nine_max]: "sorry"
+Broadcast: A military supply drop will be dropped Charlottetown in 5 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+[World] virtualcarter [Virtualcarter]: "/reward"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+[World] Andou 10 [Andou 10]: "ya puedo"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Lavender [Knifedera]: "/tp bike man"
+[Area] Ezmershiko [Ezmershiko]: "milagro"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Lavender teleported to Bike Man (Metal Smithy)
+alasgone [alasgone] killed themself.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Group] Bike Man (Metal Smithy) [Bike Man]: "hey hey!"
+[World] Matyverde:3 [Matyverde:3]: "wena"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Group] Bike Man (Metal Smithy) [Bike Man]: "back in group"
+[Area] Ezmershiko [Ezmershiko]: "puede caminar"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Group] Lavender [Knifedera]: "Back in dah group mah homie"
+[World] Andou 10 [Andou 10]: "jajaj"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Group] Lavender [Knifedera]: "Almost have a full blue costume now."
+[Area] Ezmershiko [Ezmershiko]: "chao"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Group] Bike Man (Metal Smithy) [Bike Man]: "i seem to have lost a lot of inventory"
+[Area] Ezmershiko [Ezmershiko]: "^^"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Ryusmay [Ryusmay] was mauled by a zombie!
+[World] Andou 10 [Andou 10]: "chao"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "Left a daypack in the generator one."
+[Group] Bam [Bam]: "should we destroy these?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Ryusmay [Ryusmay] killed themself.
+Broadcast: oldlordylord1 connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Galvantula connected to the server
+Connecting: PlayerID: 76561198109329744 Name: oldlordylord1 Character: oldlordylord1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198078627799 Name: Galvantula Character: Galvantula
+[Group] Bam [Bam]: "omg"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhysicsSDK: NpActor::setGlobalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpActor.cpp Line: 803)
-
-Ryusmay [Ryusmay] killed themself.
+[Group] Bam [Bam]: "lol"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Stevegamer13 connected to the server
+Broadcast: alasgone disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198189818606 Name: Stevegamer13 Br Character: Stevegamer13
+Disconnecting: PlayerID: 76561198140229281 Name: alasgone Character: alasgone
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
-
-[World] Galvantula [Galvantula]: "caeter bae"
+Broadcast: A military supply drop will be dropped Charlottetown in 4 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Stevegamer13 disconnected from the server
+Broadcast: oldlordylord1 disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198189818606 Name: Stevegamer13 Br Character: Stevegamer13
+Disconnecting: PlayerID: 76561198109329744 Name: oldlordylord1 Character: oldlordylord1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] virtualcarter [Virtualcarter]: "Shut up xD"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "where u at do"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] virtualcarter [Virtualcarter]: "In me mums car."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp carter"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to virtualcarter
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "Jesus."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "what do the beat do"
+[World] Bam [Bam]: "Um hold on a sec"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -937,41 +885,179 @@ MessageAnnouncer >>  To collect your vote reward say /reward, you can do this on
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "Am I scurry?"
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] virtualcarter [Virtualcarter]: "/reward"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] virtualcarter [Virtualcarter]: "Ur mum Alex, ur mum"
+Broadcast: virtualcarter voted on unturned-servers.net and received the "Hunter Bundle" bundle
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] virtualcarter [Virtualcarter]: "Yes"
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] virtualcarter [Virtualcarter]: "Ugh."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "=p"
+[Group] Bam [Bam]: "isn't he the griefer.."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "I can go full blue now (aside from pants; those never change.)"
+[Group] Bam [Bam]: "virtualcarter"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Galvantula [Galvantula]: "thats not nice"
+[Group] GabrielWiz [GabrielWiz]: "he is"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: batman connected to the server
+Broadcast: A military supply drop will be dropped Charlottetown in 3 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198176548978 Name: kincaderichards Character: batman
+[Group] Bam [Bam]: "Lol I dare him to come near"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] batman [kincaderichards]: "hi"
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.w (Byte f, SDG.ItemJar j) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.m (Byte i, Byte J, SDG.ItemJar f) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.addItem (Byte y, Byte A, SDG.Item j) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDragItem (CSteamID t, Byte k, Byte C, Byte R, Byte L, Byte U, Byte l) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.w (Byte f, SDG.ItemJar j) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.m (Byte i, Byte J, SDG.ItemJar f) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.addItem (Byte y, Byte A, SDG.Item j) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDragItem (CSteamID t, Byte k, Byte C, Byte R, Byte L, Byte U, Byte l) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
 Server saved.
  
@@ -981,31 +1067,846 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/18/2015 5:09:42 PM
+Saved at 4/18/2015 10:21:23 PM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Galvantula [Galvantula] was mauled by a zombie!
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.w (Byte f, SDG.ItemJar j) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.m (Byte i, Byte J, SDG.ItemJar f) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.addItem (Byte y, Byte A, SDG.Item j) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDragItem (CSteamID t, Byte k, Byte C, Byte R, Byte L, Byte U, Byte l) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Group] GabrielWiz [GabrielWiz]: "he and Savior griefed my house at Canada map"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "I need a barrel instead of the suppressor. lol"
+[Area] virtualcarter [Virtualcarter]: "Hey"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: maffei6847 connected to the server
+[World] Matyverde:3 [Matyverde:3]: "hola"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198191500689 Name: maffei6847 Character: maffei6847
+[World] Matyverde:3 [Matyverde:3]: "hello"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: felipeaugusto_fischer connected to the server
+Broadcast: Cheese connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198222997232 Name: FelipeGamer735 Character: felipeaugusto_fischer
+Connecting: PlayerID: 76561198101739660 Name: I is Cheese Character: Cheese
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Charlottetown in 2 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Andou 10 disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198168550681 Name: Andou 10 Character: Andou 10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Matyverde:3 [Matyverde:3] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Cheesie"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "eeeey"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop will be dropped Charlottetown in 1 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Area] GabrielWiz [GabrielWiz]: "will u put a second crate?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Anyone caught cheating or hacking will be banned!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Anyone caught cheating or hacking will be banned!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "i don't have invent space atm lol"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "hold on"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "how long ago was restart?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "Oh and I don't think it'd make sense for you to live here phantom because"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "you won't be able to get in"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Charlottetown!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Zamirathe_Feast >> The next feast will be at Fernwood Farm at 4/18/2015 10:38:29 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "like 14 mins ago"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "aight cool"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Jeisson116 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198158209226 Name: Jekim The Pro Character: Jeisson116
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "hmm, have u guys been duping.? -__"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] PhantomsHand [PhantomsHand]: "why not"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "._."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "who?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "not around the base though"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "i see hell ton of lockers"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "far so our things don't get glitched"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "and gabes place is rigged metal like whoa."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bike Man (Metal Smithy) [Bike Man]: "/buy i.43"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Ya i'm building for fun on the ground"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "i worked hard to get my metal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "aight cool2"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "Because it's all metal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "and on lock down"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: Logan_Nelson connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198151971583 Name: Logan_Nelson Character: Logan_Nelson
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String c, ESteamCall d, ESteamPacket I, System.Object[] b) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.j (Byte n, SDG.ItemJar D) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.A (Byte c, Byte U, SDG.ItemJar R) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte H, Byte r) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID q, Byte G, Byte U, Byte v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "so u guys are duping right now?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/18/2015 10:26:23 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Join us on Teamspeak - survivalintincts.typefrag.com
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Join us on Teamspeak - survivalintincts.typefrag.com
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "Just one crate yeah"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] GabrielWiz [GabrielWiz]: "only structures"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Cheese [I is Cheese]: "-__-"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: KaraFunGamerMC connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198168021712 Name: saragwy2 Character: KaraFunGamerMC
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "metal sheets and indigo"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "are great."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Oops"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] PhantomsHand [PhantomsHand]: "bam"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: j4onett0 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198224475368 Name: jaonoob007 Character: j4onett0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1028,1158 +1929,4 @@ at SDG.Steam.Update () <0x00029>
 
  
 (Filename:  Line: -1)
-
-Broadcast: Remember this server is PvE only, so you can't kill others here.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Remember this server is PvE only, so you can't kill others here.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Ryusmay [Ryusmay] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "Kere"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "Here"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: ":3"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: maffei6847 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198191500689 Name: maffei6847 Character: maffei6847
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "No-scoping is ridiculously easy with barrel, foreggrip and laser"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: batman disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198176548978 Name: kincaderichards Character: batman
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "You are welcome."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: felipeaugusto_fischer disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198222997232 Name: FelipeGamer735 Character: felipeaugusto_fischer
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arthur [ArthurB.Biss]: "VALEU"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arthur [ArthurB.Biss]: "THAX"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: ":D"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:14:42 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Please remember to always speak english in the main chat!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Please remember to always speak english in the main chat!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Ryusmay [Ryusmay]: "ty"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arthur [ArthurB.Biss]: "thax"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp ryusmay"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Ryusmay
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] virtualcarter [Virtualcarter]: "Alex."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] virtualcarter [Virtualcarter]: "Where are ya?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp carter"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to virtualcarter
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Fernwood Farm in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-nine_max [nine_max] dehydrated to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Fernwood Farm in 4 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/god"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender enabled Godmode
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at Rocket.RocketAPI.RocketPlayerFeatures.set_GodMode (Boolean value) [0x00000] in <filename unknown>:0 
-  at Rocket.Commands.CommandGod.Execute (Rocket.RocketAPI.RocketPlayer caller, System.String command) [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.RocketCommandBase.execute (CSteamID caller, System.String command) [0x00000] in <filename unknown>:0 
-  at SDG.Command.check (CSteamID x, System.String D, System.String R) [0x00000] in <filename unknown>:0 
-  at SDG.Commander.execute (CSteamID Y, System.String x) [0x00000] in <filename unknown>:0 
-  at SDG.ChatManager.process (SDG.SteamPlayer R, System.String r) [0x00000] in <filename unknown>:0 
-  at SDG.ChatManager.askChat (CSteamID x, Byte h, System.String w) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-[Area] Lavender [Knifedera]: "/god"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender enabled Godmode
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at Rocket.RocketAPI.RocketPlayerFeatures.set_GodMode (Boolean value) [0x00000] in <filename unknown>:0 
-  at Rocket.Commands.CommandGod.Execute (Rocket.RocketAPI.RocketPlayer caller, System.String command) [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.RocketCommandBase.execute (CSteamID caller, System.String command) [0x00000] in <filename unknown>:0 
-  at SDG.Command.check (CSteamID x, System.String D, System.String R) [0x00000] in <filename unknown>:0 
-  at SDG.Commander.execute (CSteamID Y, System.String x) [0x00000] in <filename unknown>:0 
-  at SDG.ChatManager.process (SDG.SteamPlayer R, System.String r) [0x00000] in <filename unknown>:0 
-  at SDG.ChatManager.askChat (CSteamID x, Byte h, System.String w) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID k, System.Byte[] e, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.f (CSteamID f, System.Byte[] i, Int32 x, Int32 G) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.C (Int32 D) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.H () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-[Area] Lavender [Knifedera]: "/heal"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Fernwood Farm in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] virtualcarter [Virtualcarter]: "Dat distraction."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "Da best"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: GabrielWiz disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "Hi."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] virtualcarter [Virtualcarter]: "Hello."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Fernwood Farm in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/heal"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:19:42 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "After, wanna see my secret gun stash?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Fernwood Farm in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Tu parles francais?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: ":p"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] virtualcarter [Virtualcarter]: "Un petit peu."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Fernwood Farm!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Zamirathe_Feast >> The next feast will be at Courtin Isle at 4/18/2015 5:35:16 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Hue"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "Des nasty tomatoes."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Brb."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp ryusmay"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Ryusmay
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp carter"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to virtualcarter
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arthur [ArthurB.Biss]: "hi"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arthur [ArthurB.Biss]: "hi"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: We will be hiring more people to the staff team soon!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> We will be hiring more people to the staff team soon!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Yey"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:24:42 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "i have 16x scope"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "Fuck..."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] virtualcarter [Virtualcarter]: "Well, someone destroyed my vault."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: ":<"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "woodley do you have civilian box"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "There goes my Thunderbolt+4 mags, two Oryx and a Longhorn."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "NBo, sorry"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "/reward"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "RIP. :/"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "It was in this tree..."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arthur [ArthurB.Biss]: "hi"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "I guess whoever built this base destroyed it"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "Nine do you have any medicine, I found civ box"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "yeah"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "drop"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "Thanks"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "do you need guns"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Look up."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "That would be cool, yeah"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "Nice"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "On top of the tree."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I am sky-bound!"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Yee"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "I need anything really"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "im pointing at it"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I love heights in this game. Hate em IRL"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "Well, I'm pissed off."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] virtualcarter [Virtualcarter]: "Bye."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:29:43 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Later. :/"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "becareful"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Courtin Isle in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: virtualcarter disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198107248596 Name: Virtualcarter Character: virtualcarter
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Courtin Isle in 4 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Courtin Isle in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Be sure to join our Steam group Unturned Survival Instincts
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Be sure to join our Steam group Unturned Survival Instincts
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Courtin Isle in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "brb"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "press f"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "on the bed"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Courtin Isle in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:34:43 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Courtin Isle!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Zamirathe_Feast >> The next feast will be at Confederation Bridge at 4/18/2015 5:49:48 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp courtin"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Courtin Isle
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "woodley"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/balance"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "Anyone want to buy a full mili crate for 5 points?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "how do i buy"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "/reward"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: nine_max voted on unturned-servers.net and received the "Medical" bundle
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "It'd be with /pay Username/Amount"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Comfy bro disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561197990383947 Name: Comfy bro Character: Comfy bro
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "Or, from the shop, /buy i.ID if it's in it."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "-/cost i.ID to check price."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Woodley [Woodley]: "Im back. thanks for waiting"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Ryusmay [Ryusmay]: "/reward"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Ryusmay voted on unturned-servers.net and received the "Ammo" bundle
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "vote"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/cost i.Military Am"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:39:43 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Woodley disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198045250242 Name: Woodley Character: Woodley
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp bike man"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Bike Man (Metal Smithy)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/cost i.daypack"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/cost i.red day"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: To check your wallet say /balance
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> To check your wallet say /balance
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp ryusmay"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Ryusmay
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp homan"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp holman"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Holman Isle
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-nine_max [nine_max] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "Who literally just died at Holman?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-nine_max [nine_max] killed themself.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
-
-PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
-
-nine_max [nine_max] killed themself.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
-
-PhysicsSDK: NpActor::setGlobalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpActor.cpp Line: 803)
-
-nine_max [nine_max] killed themself.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Ryusmay [Ryusmay]: "/balance"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "i died"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "whos at holman"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tphere nine_max"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-nine_max was teleported to Lavender
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] nine_max [nine_max]: "tnx"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:44:43 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Every day your online will earn 20 Canadian Dollars
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Every day your online will earn 20 Canadian Dollars
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp confed"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Confederation Bridge
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 4 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/heal"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Bike Man (Metal Smithy) disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198151129091 Name: Bike Man Character: Bike Man (Metal Smithy)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Ryusmay disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198081759657 Name: Ryusmay Character: Ryusmay
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/heal"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:49:43 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Confederation Bridge!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Zamirathe_Feast >> The next feast will be at Confederation Bridge at 4/18/2015 6:06:40 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp alber"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Alberton
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp confed"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Confederation Bridge
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Canadian Dollars can be spent in the item mall, visit tycoon-city.com for commands.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Canadian Dollars can be spent in the item mall, visit tycoon-city.com for commands.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Galvantula [Galvantula] bled to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Galvantula [Galvantula] killed themself.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:54:43 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Galvantula [Galvantula] killed themself.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhysicsSDK: NpActor::setMass: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpActor.cpp Line: 173)
-
-[World] Galvantula [Galvantula]: "/home"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/heal"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Arthur disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198161402829 Name: ArthurB.Biss Character: Arthur
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Our server restarts every two hour, a warning message will be sent 5 minutes before it restarts.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Our server restarts every two hour, a warning message will be sent 5 minutes before it restarts.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Galvantula [Galvantula] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 5:59:43 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/heal"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: nine_max disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198189898407 Name: nine_max Character: nine_max
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp galvant"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Galvantula
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "y u naked"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "because im rockin out with ma cock out"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 4 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "tnx do u have a bandage"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "If you died somewhere, lemme know and I can tp you there."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "k thanks"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "im bleeding out right now so]"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "ok it stopped"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "If you want to suicide, I can TP you back here. lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/18/2015 6:04:43 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "im gonna loot this"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "Ranger drum and 7x is what I saw. Got neither."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp confed"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Confederation Bridge
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Confederation Bridge in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  Be sure to check out the forums http://forums.tycoon-city.com/index.php
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  Be sure to check out the forums http://forums.tycoon-city.com/index.php
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "ok"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Galvantula [Galvantula] suffocated to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "nooo i died at the sub"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "dont tp me yet"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Confederation Bridge!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Zamirathe_Feast >> The next feast will be at Wiltshire Farm at 4/18/2015 6:18:02 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp cape"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Cape Rock
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp confed"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Confederation Bridge
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Galvantula [Galvantula]: "im beside the bridge"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp galvan"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Galvantula
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
