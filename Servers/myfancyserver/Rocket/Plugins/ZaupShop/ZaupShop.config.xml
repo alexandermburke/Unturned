@@ -14,4 +14,5 @@
   <ItemNotAvailable>I'm sorry, but {0} is not available in the shop.</ItemNotAvailable>
   <VehicleNotAvailable>I'm sorry, but {0} is not available in the shop.</VehicleNotAvailable>
   <CouldNotFind>I'm sorry, I couldn't find an id for {0}.</CouldNotFind>
+  <CanSellItems>true</CanSellItems>
 </UconomyBasicShopConfiguration>
