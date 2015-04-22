@@ -6,6 +6,8 @@ Size_Y 1
 Size_Z 0.2
 
 Amount 5
+Count_Min 2
+Count_Max 4
 
 Calibers 1
 Caliber_0 13

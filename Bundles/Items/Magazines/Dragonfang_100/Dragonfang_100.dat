@@ -6,6 +6,8 @@ Size_Y 2
 Size_Z 0.25
 
 Amount 100
+Count_Min 10
+Count_Max 90
 
 Calibers 1
 Caliber_0 12
