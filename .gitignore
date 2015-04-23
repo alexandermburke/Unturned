@@ -17,6 +17,11 @@ local.properties
 .loadpath
 Unturned_Data/Managed/*.txt
 Servers/myfancyserver/Players/*
+Bundles/Items/*
+Unturned_Data/Managed/*
+Servers/myfancyserver/Level/PEI/*
+Servers/myfancyserver/Level/PEI/Barricades.dat
+Unturned_Data/output_log.txt
 Bundles/Effects/*
 Bundles/Level/*
 Bundles/Objects/*
@@ -223,14 +228,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-Unturned_Data/output_log.txt
 *.txt
-Servers/myfancyserver/Level/PEI/*.dat
-Unturned_Data/output_log.txt
-Bundles/Items/*
-Unturned_Data/Managed/*.dll
 
 
-
-Servers/myfancyserver/Level/PEI/Barricades.dat
-Unturned_Data/output_log.txt
