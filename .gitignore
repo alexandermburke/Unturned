@@ -225,7 +225,7 @@ pip-log.txt
 .mr.developer.cfg
 Unturned_Data/output_log.txt
 *.txt
-Servers/myfancyserver/Level/*.dat
+Servers/myfancyserver/Level/PEI/*.dat
 Unturned_Data/output_log.txt
 Bundles/Items/*
 Unturned_Data/Managed/*.dll

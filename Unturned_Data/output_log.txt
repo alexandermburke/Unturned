@@ -21,7 +21,7 @@ Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturn
 Loading C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
 Loading C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
-- Completed reload, in  0.050 seconds
+- Completed reload, in  0.047 seconds
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.dll (this message is harmless)
 The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/mainData' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 116332 > 116328]
@@ -74,7 +74,7 @@ The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/m
 (Filename:  Line: 273)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\RocketAPI.dll (this message is harmless)
-3.9.6.0
+3.9.7.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -124,26 +124,26 @@ The ID 820 for EXE_VSSVintorez is already taken by EXE_VSSVintorez!
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 1355 unused Assets to reduce memory usage. Loaded Objects now: 32832.
-Total: 15.515100 ms (FindLiveObjects: 1.796038 ms CreateObjectMapping: 4.168965 ms MarkObjects: 7.001727 ms  DeleteObjects: 2.267047 ms)
+Unloading 1385 unused Assets to reduce memory usage. Loaded Objects now: 33656.
+Total: 17.042948 ms (FindLiveObjects: 1.800228 ms CreateObjectMapping: 4.469003 ms MarkObjects: 7.985093 ms  DeleteObjects: 2.471543 ms)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Xml.dll (this message is harmless)
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Configuration.dll (this message is harmless)
-The server will automaticly shutdown in 7200 seconds (4/19/2015 11:46:47 PM UTC)
+The server will automaticly shutdown in 7200 seconds (4/23/2015 9:41:58 AM UTC)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-UnloadTime: 3.398197 ms
+UnloadTime: 4.070349 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 32850.
-Total: 13.670452 ms (FindLiveObjects: 1.750501 ms CreateObjectMapping: 3.859429 ms MarkObjects: 7.691200 ms  DeleteObjects: 0.085485 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 33674.
+Total: 14.020497 ms (FindLiveObjects: 1.796317 ms CreateObjectMapping: 4.100241 ms MarkObjects: 7.759924 ms  DeleteObjects: 0.085206 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 32890.
-Total: 47.318027 ms (FindLiveObjects: 2.297498 ms CreateObjectMapping: 4.216737 ms MarkObjects: 40.407372 ms  DeleteObjects: 0.091073 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 33714.
+Total: 45.835716 ms (FindLiveObjects: 1.869511 ms CreateObjectMapping: 3.956648 ms MarkObjects: 39.656158 ms  DeleteObjects: 0.097219 ms)
 
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\I18N.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\I18N.West.dll (this message is harmless)
@@ -151,63 +151,83 @@ Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Se
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Data.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Management.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Transactions.dll (this message is harmless)
-Non platform assembly: data-06941070 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06941070.dll
-AntiSuicide Version: 1.0.0.2
+Non platform assembly: data-068134C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-068134C0.dll
+AntiSuicide Version: 1.2.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B7F0360 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B7F0360.dll
+Non platform assembly: data-2C4FF590 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C4FF590.dll
 autosave Version: 1.0.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B7F1968 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B7F1968.dll
+Non platform assembly: data-2C500B98 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C500B98.dll
 GlobalBan Version: 1.4.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B7F4370 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B7F4370.dll
+Non platform assembly: data-2C5035A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C5035A0.dll
 Zamirathe_HomeCommand Version: 2.0.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B7F8778 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B7F8778.dll
+Non platform assembly: data-2C5081A8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C5081A8.dll
+JailTime Version: 1.0.1.0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Non platform assembly: data-2C50CBB0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C50CBB0.dll
 MessageAnnouncer Version: 1.5.0.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B7F9B80 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B7F9B80.dll
+Non platform assembly: data-2C50DFB8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C50DFB8.dll
+PrivateMessaging Version: 1.0.0.0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Non platform assembly: data-06A85F98 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06A85F98.dll
 Uconomy Version: 1.0.4.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B7FC388 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B7FC388.dll
+Non platform assembly: data-2C50F5C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C50F5C0.dll
 Votifier Version: 1.3.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B7FF590 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B7FF590.dll
+Non platform assembly: data-06A887A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06A887A0.dll
 Zamirathe_Feast Version: 2.0.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B801D98 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B801D98.dll
+Non platform assembly: data-2C5137C8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C5137C8.dll
 Zamirathe_HomeCommand Version: 2.1.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B8047A0 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B8047A0.dll
-ZaupShop Version: 1.0.1.10
+Non platform assembly: data-2C5161D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C5161D0.dll
+ZaupShop Version: 1.1.0.2
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+JailTime.jail
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PrivateMessaging.msg
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -232,6 +252,10 @@ ZaupShop.buy
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 ZaupShop.cost
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+ZaupShop.sell
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -321,22 +345,22 @@ MessageAnnouncer >> Use /home to teleport to your claimed bed!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Zamirathe_Feast >> The next feast will be at Summerside Military Base at 4/19/2015 6:02:17 PM
+Zamirathe_Feast >> The next feast will be at Montague at 4/23/2015 3:56:19 AM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2B84C558 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B84C558.dll
-Non platform assembly: data-2B85D160 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B85D160.dll
-Non platform assembly: data-2B865D68 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B865D68.dll
-Non platform assembly: data-2C7B0020 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C7B0020.dll
-Non platform assembly: data-2B8E2370 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B8E2370.dll
-Non platform assembly: data-2B9AAEA8 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2B9AAEA8.dll
+Non platform assembly: data-2C56CAE8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C56CAE8.dll
+Non platform assembly: data-2C57D6F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C57D6F0.dll
+Non platform assembly: data-2C58E2F8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C58E2F8.dll
+Non platform assembly: data-2C290020 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C290020.dll
+Non platform assembly: data-2C5FB900 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C5FB900.dll
+Non platform assembly: data-2C6E8DF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6E8DF0.dll
 The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 6490136 > 6490132]
  
@@ -412,160 +436,292 @@ The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/r
  
 (Filename:  Line: 273)
 
-Broadcast: BumBum connected to the server
+Broadcast: VinylPhilharmonica connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198105710971 Name: BumBum Character: BumBum
+Connecting: PlayerID: 76561198091716852 Name: Vinyl Philharmonica Character: VinylPhilharmonica
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Mono.Security.dll (this message is harmless)
-Broadcast: BadAce connected to the server
+Broadcast: JinxedPixels connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198081570969 Name: Benjaskey Character: BadAce
+Connecting: PlayerID: 76561198122636337 Name: Soo Kawaiii Character: JinxedPixels
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Killerstrings connected to the server
+Broadcast: Lord Viper connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198046276180 Name: Killerstrings Character: Killerstrings
+Connecting: PlayerID: 76561198167400263 Name: viper.feronzie Character: Lord Viper
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Lavender connected to the server
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp mili"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198126157171 Name: Knifedera Character: Lavender
+VinylPhilharmonica teleported to Summerside Military Base
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Sirkan connected to the server
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "omg"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/home"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "/god"
+Broadcast: Nyan connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Lavender enabled Godmode
+Connecting: PlayerID: 76561198065941889 Name: catnya Character: Nyan
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: PanicOftheMo_Oz connected to the server
+Broadcast: Holya666 connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198190341195 Name: PanicOftheMo_Oz Character: PanicOftheMo_Oz
+Connecting: PlayerID: 76561198146045213 Name: Holya666 Character: Holya666
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "/tp stratfor"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "It rolledback again..."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Lavender teleported to Stratford
+[World] Lord Viper [viper.feronzie]: "FVCBLAEAW"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "._."
+[World] Nyan [catnya]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "/vehicle Knifedera/48"
+[World] Holya666 [Holya666]: "so.. any hulks?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Successfully gave Knifedera 48!
+Broadcast: Redologist connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "._."
+Connecting: PlayerID: 76561198133194928 Name: Sendu Character: Redologist
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: CGO Marco connected to the server
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "It rolled back again"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198184815389 Name: elpenetroll Character: CGO Marco
+[World] Nyan [catnya]: "areyou sure?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: BadAce disconnected from the server
+[World] Holya666 [Holya666]: "..."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198081570969 Name: Benjaskey Character: BadAce
+[World] Redologist [Sendu]: "omg wat"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "._."
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Yep"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "._."
+[World] Holya666 [Holya666]: "why?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Skye Ace connected to the server
+[World] Lord Viper [viper.feronzie]: "Yes. Very sure"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198081570969 Name: Benjaskey Character: Skye Ace
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "It rolled back again"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Skye Ace disconnected from the server
+[World] Redologist [Sendu]: "waw."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198081570969 Name: Benjaskey Character: Skye Ace
+[World] Redologist [Sendu]: "gg"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Ace_McRambo connected to the server
+[World] Lord Viper [viper.feronzie]: "Frick, man."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198081570969 Name: Benjaskey Character: Ace_McRambo
+[World] Holya666 [Holya666]: "Why the bloody hell is it constaintly rolling back now?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A Random Noodle Cart connected to the server
+[World] Redologist [Sendu]: "so.. where's my thunderbolt now?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198072623240 Name: A Random Noodle Cart Character: A Random Noodle Cart
+[World] Nyan [catnya]: "/home"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Ace_McRambo disconnected from the server
+[World] Holya666 [Holya666]: "if it was in a chest.."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198081570969 Name: Benjaskey Character: Ace_McRambo
+[World] Holya666 [Holya666]: "its gone"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Meat_Puppet connected to the server
+[World] Nyan [catnya]: "word"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198081570969 Name: Benjaskey Character: Meat_Puppet
+[World] Redologist [Sendu]: "NOOOO"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "/home"
+[World] Nyan [catnya]: "OMFG"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "OOOOOOOOOOOOOO"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "MMMMMMMMMMMMM"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "FFFFFFFFFFFFF"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "if it was in your invitory then ya still got it"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "GGGGGGGGGGGG"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "MY THUNDERBOLT'S GONE"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "G-G"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "MY 2K+ METAL VAULT"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Nscorz connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198046809810 Name: Nscorz Character: Nscorz
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "WTFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "Great shiz."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "goodbye game"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "why I keep all my happiness on me.. at all times."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "Atleast i have the pine rifle."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "/bal"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "/balance"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nscorz [Nscorz]: "what happened"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "ALL MY 5K POINTS THAT WENT INTO METAL"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "another roll back"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Server rollled back again."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "IM SO FUCKING SAD RN"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "/say Server rollbacked again cause unturned is so buggy af. - redo"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "again.. why you keep ALL your happiness on you!"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nscorz [Nscorz]: "I feel like I'm just not realizing I've lost stuff"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nscorz [Nscorz]: "where does one check points"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "I need to have Marcus send me console control so I can see what the fuck is going on"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "on"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "Viny"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Nyan [catnya]: "Q__Q can i get my 5k points back then......all my metal T___________________T"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "./balance"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Redologist [Sendu]: "He won't give you console control."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -577,195 +733,119 @@ MessageAnnouncer >> Be sure to check out our website unturned.plantdown.com
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Sirkan disconnected from the server
+[World] Nscorz [Nscorz]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
+Broadcast: Bike Man connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Sirkan connected to the server
+Connecting: PlayerID: 76561198151129091 Name: Bike Man Character: Bike Man
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
+[World] Nyan [catnya]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Pedro-Paulo12 connected to the server
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "I nkow he wont"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198129528163 Name: Pedro-Paulo12 Character: Pedro-Paulo12
+[World] Redologist [Sendu]: "I've asked higm before."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Marcus connected to the server
+[World] Holya666 [Holya666]: "-cuddles the maxed out fully custom maple strike-"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198027302095 Name: Marcus Character: Marcus
+[World] Redologist [Sendu]: "see"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Sirkan disconnected from the server
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "But let me look at the god damn"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
+[World] Nscorz [Nscorz]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Marcus [Marcus]: "/god"
+[World] Redologist [Sendu]: "that's what he said."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Marcus enabled Godmode
+Broadcast: EatClipze connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Sirkan connected to the server
+Connecting: PlayerID: 76561198147825288 Name: EatClipze Character: EatClipze
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "error logs"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: GabrielWiz connected to the server
+[World] Nscorz [Nscorz]: "kk"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
+Broadcast: EatClipze disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Server saved.
+Disconnecting: PlayerID: 76561198147825288 Name: EatClipze Character: EatClipze
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Player Statistics have been saved
+[World] Redologist [Sendu]: "Marcus is there a way to get our items back? I lost my thunderbolt."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/19/2015 5:51:56 PM
+[World] Redologist [Sendu]: "/tp summer"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "._."
+Redologist teleported to Summerside Military Base
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "mi casa D:"
+[World] Lord Viper [viper.feronzie]: "Can we rollback a rollback..? lol"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "ya no esta ._."
+[World] Holya666 [Holya666]: "hey all the lag is gone.."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: VinylPhilharmonica connected to the server
+[World] Nyan [catnya]: "I LOST MY 2K+ METAL VAULT T________T........"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198091716852 Name: Vinyl Philharmonica Character: VinylPhilharmonica
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Marcus, you need to check the files that you updated."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "oh yay"
+[World] Redologist [Sendu]: "I feel you nyan."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "no more syncing problems"
+[World] Nyan [catnya]: "that was 5k points man....someone hug me"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "unless server just restarted"
+[World] Holya666 [Holya666]: "... so.. rollback fixed the telekenetic zombie issue.."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "Gabriel"
+[World] Holya666 [Holya666]: "wtf unturned.."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Lavender [Knifedera]: "It did."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "dah no wonder"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "mi casa :,v"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Pedro-Paulo12 [Pedro-Paulo12]: "GH"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] GabrielWiz [GabrielWiz]: "parece q hicieron una vuelta atras"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "ugh"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] GabrielWiz [GabrielWiz]: "para arreglar el lag"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: ":,v"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "bueno"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "The room nextdoor is having a fight"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "oye"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "A"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "Loud"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "Fight"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "me arias el truco? :3"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Wolf_Sharpshooter connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198119866548 Name: Wolf_Sharpshooter Character: Wolf_Sharpshooter
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "en el mismo lugar"
+[World] Redologist [Sendu]: "marcus is not an idiot guys cmon."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -773,155 +853,51 @@ Connecting: PlayerID: 76561198119866548 Name: Wolf_Sharpshooter Character: Wolf_
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "Wait what the"
+[World] Holya666 [Holya666]: "Never called you one"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "Did the server rollback>?"
+[World] Redologist [Sendu]: "he knows what he's doin. I've been here since 2.0."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] CGO Marco [elpenetroll]: "es hacker?"
+[World] Nyan [catnya]: "c'mon someone hug me :[......"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Lavender [Knifedera]: "It crashed, so yes."
+[World] Redologist [Sendu]: "I'll hug you Nyan, we lost our valuables."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] GabrielWiz [GabrielWiz]: "yes"
+[World] JinxedPixels [Soo Kawaiii]: "-hugs-"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "omg"
+[World] Holya666 [Holya666]: "I just never experined Unturn derp"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Sirkan [Sirkan]: "xd"
+[World] Nyan [catnya]: "ty :["
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "now I have to do all that over again..."
+[World] Holya666 [Holya666]: "I've expeineced this derp in DST"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] CGO Marco [elpenetroll]: "ooo"
+[World] Redologist [Sendu]: "don't blame it on marcus tho"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] GabrielWiz [GabrielWiz]: "that was a rollback"
+[World] Holya666 [Holya666]: "but never unturned"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "well"
+[World] Nyan [catnya]: "T__T i won't....."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "oh well"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "/home"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp marcus"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Marcus
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "this time at least"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "I'll make the house first so I don't have to"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp marcus"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Marcus
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "waste lockers"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "damn"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Meat_Puppet disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198081570969 Name: Benjaskey Character: Meat_Puppet
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I dropped all that."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "i lost my adrenaline locker"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Skye Captain connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198081570969 Name: Benjaskey Character: Skye Captain
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "lost my energy drink lockers too"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Da engie connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198042902329 Name: Da engie Character: Da engie
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Sirkan [Sirkan]: "Gabriel eres moderador cierto ._."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Galvantula connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198078627799 Name: Galvantula Character: Galvantula
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "Gabriel eres moderador cierto ._."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "no"
+[World] Holya666 [Holya666]: "I never blame the server owner.."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -929,199 +905,7 @@ Server saved.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/19/2015 5:56:56 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: SuicideDominick connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198119805522 Name: SuicideDominick Character: SuicideDominick
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "claro que si :v"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "no creo que seas hacker :v"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Summerside Military Base in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp strat"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Stratford
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "hacker no, no tengo conocimiento de programacion"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Summerside Military Base in 4 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: ZeroNull connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561197969719675 Name: ZeroNull Character: ZeroNull
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] CGO Marco [elpenetroll]: "entonses eres dios?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Thegimp369 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198084271483 Name: Thegimp369 Character: Thegimp369
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: ":V"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "hello"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "vaya"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Anyone caught cheating or hacking will be banned!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Anyone caught cheating or hacking will be banned!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Summerside Military Base in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "are people on here friendly?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "this is pve so yes"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "oh yea durr"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "well some people are ass and loot your dead body clean"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "PvE mean they cant kill you"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "i know i had a derp"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "that does not make all friendly"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "because some ppl will steal and break your house"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "helpo at mili"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Summerside Military Base in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "susally frendly means no death by them so thats my point of view"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "true"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Thegimp369 [Thegimp369] bled to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "but griefers are not friendly for sure"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "indeedw"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "i just found a good server XD"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: dragonhnnee connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198023503212 Name: dragonhnnee Character: dragonhnnee
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "yay"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Summerside Military Base in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Thegimp369 [Thegimp369]: "hello"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: oONobleChiefOo connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198145563839 Name: oONobleChiefOo Character: oONobleChiefOo
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] CGO Marco [elpenetroll]: "gabriel sabes como funciona lo de las cajas"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: ":V claro que sabe"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "tank at military base"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
+[World] Nyan [catnya]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1129,687 +913,67 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/19/2015 6:01:56 PM
+Saved at 4/23/2015 3:47:07 AM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Don't forget to participate in our Weekly Raffle on the forums!
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "I'm not blaming it on Marcus. I'm questioning what the fuck the files are doing"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-MessageAnnouncer >> Don't forget to participate in our Weekly Raffle on the forums!
+[World] Holya666 [Holya666]: "not his r her fault"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop has been dropped at Summerside Military Base!
+Broadcast: billy1elf connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Zamirathe_Feast >> The next feast will be at O'Leary Prison at 4/19/2015 6:19:57 PM
+Connecting: PlayerID: 76561198126582574 Name: billy1elf Character: billy1elf
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Sirkan disconnected from the server
+[World] Bike Man [Bike Man]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
+[World] Nyan [catnya]: "what"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Thegimp369 [Thegimp369]: "where does it fall?"
+Broadcast: billy1elf disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: dragonhnnee disconnected from the server
+Disconnecting: PlayerID: 76561198126582574 Name: billy1elf Character: billy1elf
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198023503212 Name: dragonhnnee Character: dragonhnnee
+[World] Lord Viper [viper.feronzie]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-A Random Noodle Cart [A Random Noodle Cart] was mauled by a zombie!
+[World] Redologist [Sendu]: "Atleast i still have my maple and pine rifle"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Sirkan connected to the server
+Broadcast: Spodermen connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
+Connecting: PlayerID: 76561198170718559 Name: Spodermen Character: Spodermen
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: dragonhnnee connected to the server
+[World] Holya666 [Holya666]: "so nesion jacked his restart coding?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198023503212 Name: dragonhnnee Character: dragonhnnee
+[World] Lord Viper [viper.feronzie]: "Wish I had my prowler on me at least"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] A Random Noodle Cart [A Random Noodle Cart]: "one shot eh?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-[World] Sirkan [Sirkan]: "Ja¡ que truco tan mas facil de la caja :v"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] A Random Noodle Cart [A Random Noodle Cart]: "im going to get my stuff back"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: LostProdigy connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198050399938 Name: LostProdigy Character: LostProdigy
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] BumBum [BumBum]: "/home"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "awe need a ramp out"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Broadcast: Every week we have a raffle and you will have a chance to win points!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Every week we have a raffle and you will have a chance to win points!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Thegimp369 [Thegimp369]: "thank you"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] dragonhnnee [dragonhnnee]: "will guns spawn?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "spawn where?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] BumBum [BumBum]: "wai did my house just dissapear"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-oONobleChiefOo [oONobleChiefOo] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Pedro-Paulo12 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198129528163 Name: Pedro-Paulo12 Character: Pedro-Paulo12
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
-  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
-  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.send (System.String C, ESteamCall r, ESteamPacket E, System.Object[] G) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.G (Byte y, SDG.ItemJar i) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.N (Byte K, Byte E, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
-  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
-  at SDG.Items.removeItem (Byte X) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.removeItem (Byte u, Byte Y) [0x00000] in <filename unknown>:0 
-  at SDG.PlayerInventory.askDropItem (CSteamID E, Byte p, Byte p, Byte m) [0x00000] in <filename unknown>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
-  at SDG.SteamChannel.receive (CSteamID D, System.Byte[] L, Int32 I) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.U (CSteamID o, System.Byte[] U, Int32 a, Int32 M) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Q (Int32 Y) [0x00000] in <filename unknown>:0 
-  at SDG.Steam.x () [0x00000] in <filename unknown>:0 
-  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-[World] Marcus [Marcus]: "/god"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Marcus disabled Godmode
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "/god"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Marcus enabled Godmode
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "the server had a rollback"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "some estructures are gone"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "yes"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "Server crashed"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/19/2015 6:06:56 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "/buy v.humvee"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] BumBum [BumBum]: "i cry"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "/tp lav"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Marcus teleported to Lavender
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] A Random Noodle Cart [A Random Noodle Cart]: "give stuff back"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Richkidac connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198188434390 Name: johnp9615 Character: Richkidac
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Sirkan disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "15 FPS"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Now 30."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "Hrm well theres the problem"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] A Random Noodle Cart [A Random Noodle Cart]: "give my stuff back"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "Its the zombies"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Thegimp369 [Thegimp369]: "there!"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "mine dropped to 22"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Don't forget  the server ip: play.plantdown.com
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Don't forget  the server ip: play.plantdown.com
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "And it only does this when there's too many structures. :/"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "so many cobra mags XD"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I get ~70 FPS on the server when all structures are wiped (with active zombies)."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "the Zombies are bugged?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "We're talking about how badly the FPS drops around zombies."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] oONobleChiefOo [oONobleChiefOo]: "yea fps drop so bad"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Thegimp369 [Thegimp369] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "Well the number of objects will effect fps as for the zombies"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "ehh yea ^"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "/home"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "they probably need better optimization"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "although even tho my fps drops I dont lag"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "what was that military supply drop?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "oh ok"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "/home"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I never have a stable ping because my internet's super weak. lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "i found nothing there?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Galvantula disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198078627799 Name: Galvantula Character: Galvantula
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "/tphere Laven"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender was teleported to Marcus
+[World] Redologist [Sendu]: "shh stop whining guys .-."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1821,883 +985,123 @@ MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/520
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "my fps is like 34"
+[World] Lord Viper [viper.feronzie]: "I must vent."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "its 40 when your not here"
+[World] Holya666 [Holya666]: "not whining.."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] CGO Marco [elpenetroll]: "XD"
+Broadcast: Spodermen disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "23 atm."
+Disconnecting: PlayerID: 76561198170718559 Name: Spodermen Character: Spodermen
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "thats with all these bases around"
+[World] Nyan [catnya]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "I bet if I walk away it will go up"
+[World] Nyan [catnya]: "well back to farming to 5k points"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Sirkan connected to the server
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "oh"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198173492382 Name: Sirkan Character: Sirkan
+[World] Nyan [catnya]: "so i can build that safe again"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] CGO Marco [elpenetroll]: "run"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "I lost my desert eagles."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "It's jumping around randomly from 20-40"
+[World] Holya666 [Holya666]: "I am just wonder what the hell nelsion did to make servers so unstable afyer this new upda"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Richkidac [johnp9615] was mauled by a zombie!
+[World] Nyan [catnya]: "YOLO!"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Server saved.
+[World] Holya666 [Holya666]: "update"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Player Statistics have been saved
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "meh"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/19/2015 6:11:56 PM
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp confed"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "It depends on what your looking at"
+VinylPhilharmonica teleported to Confederation Bridge
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "Look at a building fps dorps"
+[World] Holya666 [Holya666]: "marcus your server isn't the only one being derpy"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "Oh, yeah, if I look away from all the bases, 40"
+Broadcast: Spodermen connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "look in the sky it goes up"
+Connecting: PlayerID: 76561198170718559 Name: Spodermen Character: Spodermen
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "20 when looking at em all."
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: joemannumber3 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198128647099 Name: joemannumber3 Character: joemannumber3
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "34"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Goes down to like 10 when doors are opened/closed. lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "Iduno nothing I can really fix"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "Where dem fine zombies?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "I dont wanna wipe ppls bases"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "amn"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "teleporting"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "cars"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: andymendoza2002 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198182392547 Name: andymendoza2002 Character: andymendoza2002
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "That'd be the only solution to fixing; wiping bases. I wish people would stop"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "overcompensating how much space they need."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "My house is 2x1. That's all I need."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A Random Noodle Cart disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198072623240 Name: A Random Noodle Cart Character: A Random Noodle Cart
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped O'Leary Prison in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "whats a military supply drop!"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "Probs gun attachmetns/ammo"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "/reward"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped O'Leary Prison in 4 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] oONobleChiefOo [oONobleChiefOo]: "its self expalnotory..."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "i went to the previous one and i never saw it?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Da engie [Da engie]: "how may i help you?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "SOmeone probs beat you to it"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Skye Captain [Benjaskey]: "they seem to like dropping in the water too"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/19/2015 6:16:56 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Remember this server is PvE only, so you can't kill others here.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Remember this server is PvE only, so you can't kill others here.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped O'Leary Prison in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "Is there no bleeding here?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "FAKING SPIKES!"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Skye Captain [Benjaskey]: "i got an alice pack under water"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: oONobleChiefOo disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198145563839 Name: oONobleChiefOo Character: oONobleChiefOo
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-dragonhnnee [dragonhnnee] suffocated to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "So, I found out that you can craft bread."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "That makes my current goal so much easier."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "with wheat..."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped O'Leary Prison in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "One wheat"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "Makes no sense, but whatev"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "If I can find canned bacon, I can make a BLT. lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Pedro-Paulo12 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198129528163 Name: Pedro-Paulo12 Character: Pedro-Paulo12
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "XD"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "Whatever happened to hunting animals? like pigs?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "I have the 2 bread, tomato and lettuce."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped O'Leary Prison in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "i want to make a cake"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "thats a hard-knock life right there"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "All I need for a cake is one carton of milk."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: GabrielWiz disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: GabrielWiz connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "Oh wait, I wasted my wheat for bread. xP"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: ":/"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Group] Sirkan [Sirkan]: "ho"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Group] Sirkan [Sirkan]: "la"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "found eggs"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Please remember to always speak english in the main chat!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Please remember to always speak english in the main chat!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at O'Leary Prison!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Zamirathe_Feast >> The next feast will be at Souris Campground at 4/19/2015 6:32:33 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: GabrielWiz disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: GabrielWiz connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198103223510 Name: GabrielWiz Character: GabrielWiz
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "And just harvested wheat, so again, all I need is milk."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "wheres the drop!"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: CGO Marco disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198184815389 Name: elpenetroll Character: CGO Marco
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: oONobleChiefOo connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198145563839 Name: oONobleChiefOo Character: oONobleChiefOo
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Mercenary McCloud connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198104547707 Name: Mercenary McCloud Character: Mercenary McCloud
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Killerstrings [Killerstrings] was infected to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-SuicideDominick [SuicideDominick] bled to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/19/2015 6:21:56 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Lavender [Knifedera]: "/tp marcus"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Marcus
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "i give up!"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "ohi"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-SuicideDominick [SuicideDominick] killed themself.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I love the way this drink looks."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "lol did u fall"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "ok"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-SuicideDominick [SuicideDominick] killed themself.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "I wanna build a little city up here ;o"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Already close-ish to having all the new foods. :o"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "Niggas stealing trucks and exp"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-andymendoza2002 [andymendoza2002] fractured to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "Cant wait for him to add animals"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Need all the sandwiches other than grilled cheese, then that's about it."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: andymendoza2002 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198182392547 Name: andymendoza2002 Character: andymendoza2002
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "then everyones fps will b 2"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Eh, I don't really care about the animals. :p"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Pedro-Paulo12 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198129528163 Name: Pedro-Paulo12 Character: Pedro-Paulo12
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Killerstrings [Killerstrings] suffocated to death!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Mercenary McCloud disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198104547707 Name: Mercenary McCloud Character: Mercenary McCloud
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "Marcus"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "I like hunting"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "yes?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I bet we're near the Stratosphere. lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "The only reason I ever hunted was for the achievements. =o"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: america953 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198140194623 Name: santifajardo1100 Character: america953
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "where do you drops spawn or drop because ive searched this whole island looking for it?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] america953 [santifajardo1100]: "hola ?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "I just did it for fun"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "drops dont spawn till server resets"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] joemannumber3 [joemannumber3]: "Hes salty cuase he cant find military drops"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "it only drops 3-5 items and they drop randomly near or inside the town"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: anthonyar2000 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198170511318 Name: anthonyar2000 Character: anthonyar2000
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Da engie [Da engie]: "if mili drops? i dont know, never found one my self"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "If your talking about the Military drops"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "yea"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "Normal spawns respawn over time"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "it drops"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: anthonyar2000 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198170511318 Name: anthonyar2000 Character: anthonyar2000
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "yo marcus is there ever"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "oging to be a recipe"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "to repair"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "nyanfires?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Is Lunars' L96 on the server?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "/reward"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: LostProdigy voted on unturned-servers.net and received the "Medical" bundle
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "do dammit"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "hrm I could probably add one"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "god*"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "pls do :D"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: SuicideDominick disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198119805522 Name: SuicideDominick Character: SuicideDominick
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "thats not"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "Yah but it dosent spawn"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "overly"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "buttfukcing lol xD"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I prefer that one extremely over Fiffe's. lol"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] america953 [santifajardo1100]: "hola"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: america953 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198140194623 Name: santifajardo1100 Character: america953
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Server saved.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Player Statistics have been saved
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Saved at 4/19/2015 6:26:56 PM
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: semin777 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198130647216 Name: semin777 Character: semin777
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: SuicideDominick connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198119805522 Name: SuicideDominick Character: SuicideDominick
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I think my two favorite guns of Fiffe's are the Obliterator and Prowler"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Souris Campground in 5 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: america953 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198140194623 Name: santifajardo1100 Character: america953
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] GabrielWiz [GabrielWiz]: "/home"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "whos at prison?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] america953 [santifajardo1100]: "hola?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Souris Campground in 4 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Thegimp369 [Thegimp369]: "hola"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "hola"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: ":3"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: We will be hiring more people to the staff team soon!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> We will be hiring more people to the staff team soon!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "I'mma go get some birch wood to re-complete my half-base."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "/tp alberton"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Lavender teleported to Alberton
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] america953 [santifajardo1100]: "son españoles"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "si"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Marcus [Marcus]: "Kay next server restart will add repair recipe to Nyanfire"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Sirkan [Sirkan]: "alemenos yo si"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "nice"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] LostProdigy [LostProdigy]: "what is it"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "YAy"
+[World] Redologist [Sendu]: "That's probably the thing marcus"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "Nyanscrap?"
+[World] Redologist [Sendu]: "check it out"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Souris Campground in 3 minutes!
+[World] Holya666 [Holya666]: "so I think it falls more on nelson"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] america953 [santifajardo1100]: "agamos un grupo"
+[World] Spodermen [Spodermen]: "sup"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Marcus [Marcus]: "but your probably gunna have to rebuy the gun for it to show it"
+[World] Holya666 [Holya666]: "so really dude you are doing a great job as host"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "What?"
+[World] Holya666 [Holya666]: "you got friendly staff"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "god"
+Broadcast: Spodermen disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Marcus [Marcus]: "Since  the guns you have are older versions"
+Disconnecting: PlayerID: 76561198170718559 Name: Spodermen Character: Spodermen
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "dammit"
+[World] Redologist [Sendu]: "URAL YIS"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "ohh"
+[World] Nyan [catnya]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "yeah"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "hmm"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -2705,295 +1109,276 @@ Broadcast: A military supply drop will be dropped Souris Campground in 3 minutes
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "okay deecho soy mexicano nose si te referias ah la lengua :v"
+[World] Redologist [Sendu]: "viny look at this abomination"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "I has 1810, so sell 4 alice packs and I'll be good lol"
+[World] Holya666 [Holya666]: "cheer up and be happy"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "Q_Q"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp redo"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "/balance"
+VinylPhilharmonica teleported to Redologist
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Thegimp369 [Thegimp369]: "/bal"
+[World] Redologist [Sendu]: "sandbag abomination."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "rip me"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "That's what I had to get rid of"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Thegimp369 [Thegimp369]: "?"
+[World] Bike Man [Bike Man]: "on another note, my points level is OVER 9000"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Souris Campground in 2 minutes!
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "twice already"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] america953 [santifajardo1100]: "pero si hacemos un grupo"
+[World] Redologist [Sendu]: "Hey, there's an ural though"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Marcus [Marcus]: "/tp lav"
+[World] Lord Viper [viper.feronzie]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Marcus teleported to Lavender
+[World] Holya666 [Holya666]: "what sandbag monstrosity?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "grupo? o equipo?"
+[World] Nyan [catnya]: "UR LUCKY BIKE MAN Q__Q I SPENT ALL MY POINTS"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "my fps is high"
+Broadcast: Spodermen connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] america953 [santifajardo1100]: "equipo"
+Connecting: PlayerID: 76561198170718559 Name: Spodermen Character: Spodermen
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "ah si esta bien :3 donde estas?"
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Lavender [Knifedera]: "Like this base, it's small, but small ones everywhere build up."
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: joemannumber3 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198128647099 Name: joemannumber3 Character: joemannumber3
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "They probably got griefed"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Souris Campground in 1 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
 
-[World] america953 [santifajardo1100]: "estoy en wellintong farm o algo asi"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Milibase"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: ":/"
+[World] Redologist [Sendu]: "head to mil base holya"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "okey boy para aya"
+[World] Holya666 [Holya666]: "coming"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Server saved.
+[World] JinxedPixels [Soo Kawaiii]: "someone own this vehicle in alberton"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp monta"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+VinylPhilharmonica teleported to Montague
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Player Statistics have been saved
+[World] Bike Man [Bike Man]: "/buy i.67"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/19/2015 6:31:56 PM
+[World] Redologist [Sendu]: "I think pine rifle can 1 hit mil zombies in their helmet"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] america953 [santifajardo1100]: "ok te espero"
+[World] Nscorz [Nscorz]: "yeah but not mine"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "ok"
+[World] Nyan [catnya]: "what"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: gabriel_britto connected to the server
+[World] Nscorz [Nscorz]: "80% fuel"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198190780717 Name: unturnedsobrevivencia Character: gabriel_britto
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp confed"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "has anyone"
+VinylPhilharmonica teleported to Confederation Bridge
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "found a poptart?>"
+[World] Redologist [Sendu]: "Trust me, it works"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Thegimp369 [Thegimp369]: "hello"
+[World] Holya666 [Holya666]: "I know maple strike can"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] gabriel_britto [unturnedsobrevivencia]: "quem br?"
+[World] JinxedPixels [Soo Kawaiii]: "yes"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Richkidac [johnp9615]: "me"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "hmm"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "eally?"
+[World] Nyan [catnya]: "r u sure makeshift weps 1 shot?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] gabriel_britto [unturnedsobrevivencia]: "/kits"
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop has been dropped at Souris Campground!
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Zamirathe_Feast >> The next feast will be at Fernwood Farm at 4/19/2015 6:48:13 PM
+[World] Redologist [Sendu]: "I can 1 hit anything with pine rifle even mil zombie"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "Lunars guns are okay"
+[World] Redologist [Sendu]: "nyan,"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "this ppk is horrible"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "lets see"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] gabriel_britto [unturnedsobrevivencia]: "/kit starter"
+[World] Redologist [Sendu]: "I can show you"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "Compare the animations of the L96 of Fiffe and Lunar."
+[World] Lord Viper [viper.feronzie]: "/home"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "lol look"
+Broadcast: A military supply drop will be dropped Montague in 5 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Halocaust connected to the server
+[World] Redologist [Sendu]: "wanna get tpd here?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198130031623 Name: Halocaust Character: Halocaust
+[World] Holya666 [Holya666]: "don't break the monstrosity!"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "Lunars' are 500% better"
+[World] Nyan [catnya]: "/sell 37/60"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "Look at what? :o"
+ArgumentNullException: Argument cannot be null.
+Parameter name: format
+  at System.String.FormatHelper (System.Text.StringBuilder result, IFormatProvider provider, System.String format, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.String.Format (IFormatProvider provider, System.String format, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.String.Format (System.String format, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UconomyBasicShop.UconomyBasicShop.Sell (Rocket.RocketAPI.RocketPlayer playerid, System.String msg) [0x00000] in <filename unknown>:0 
+  at UconomyBasicShop.CommandSell.Execute (Rocket.RocketAPI.RocketPlayer playerid, System.String msg) [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.RocketCommandBase.execute (CSteamID caller, System.String command) [0x00000] in <filename unknown>:0 
+  at SDG.Command.check (CSteamID f, System.String o, System.String Q) [0x00000] in <filename unknown>:0 
+  at SDG.Commander.execute (CSteamID r, System.String b) [0x00000] in <filename unknown>:0 
+  at SDG.ChatManager.process (SDG.SteamPlayer y, System.String r) [0x00000] in <filename unknown>:0 
+  at SDG.ChatManager.askChat (CSteamID r, Byte H, System.String v) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID o, System.Byte[] d, Int32 h) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.j (CSteamID N, System.Byte[] w, Int32 X, Int32 Y) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.t (Int32 c) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.U () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "I dont have nay of fiffes guns"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "my fav is the vintorez"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[Area] Marcus [Marcus]: "which is what I have now"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] america953 [santifajardo1100]: "sirkan algun lugar que  quieras hablar mas facil"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "Just saw someone in an invisible car fly really fast on the ground"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-PanicOftheMo_Oz [PanicOftheMo_Oz] killed themself.
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "so you suspect its the update system... hmm"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Thegimp369 [Thegimp369]: "dang you"
+[World] Holya666 [Holya666]: "I am comin"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "i want someone to make a grass patch"
+JinxedPixels [Soo Kawaiii] was mauled by a zombie!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "like a platfrom you can place down"
+[World] Redologist [Sendu]: "/tphere nyan"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Thegimp369 [Thegimp369]: "you have al the loot"
+Nyan was teleported to Redologist
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "mainly for sky houses"
+[World] Nyan [catnya]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Sirkan [Sirkan]: "aver espera ya casi llego"
+[World] Redologist [Sendu]: "see"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] gabriel_britto [unturnedsobrevivencia]: "hi"
+[World] Nyan [catnya]: "shit is broken mang"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] america953 [santifajardo1100]: "ok"
+[World] Redologist [Sendu]: "was 1 hit"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "whe to fuck"
+[World] Nyan [catnya]: "i need to build one now"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Skye Captain [Benjaskey]: "hi"
+[World] Nyan [catnya]: "and it's silent"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "too my grizzly"
+[World] Redologist [Sendu]: "I did not cheat any :P"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "Spawn yourself 6014. That's my favorite of Fiffe's guns."
+[World] Redologist [Sendu]: "or hit him once"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "nmvm"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "so then one of the files must be pointing to this save file."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Marcus [Marcus]: "/i 6014"
+[World] Redologist [Sendu]: "I can find 1 more"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Giving Marcus item 6014:1
+[World] Redologist [Sendu]: "follow me nyan"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[Area] Lavender [Knifedera]: "If you've never looked at it, it's the Obliterator automatic shotgun."
+[World] Nyan [catnya]: "well time to build one!"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] LostProdigy [LostProdigy]: "the loot"
+[World] Nyan [catnya]: "where did u go"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
