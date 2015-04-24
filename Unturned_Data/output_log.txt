@@ -917,3 +917,53 @@ MissingMethodException: Method not found: 'SDG.Item..ctor'.
  
 (Filename:  Line: -1)
 
+Broadcast: Pastaface disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198161443909 Name: Pastaface Character: Pastaface
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] rafi2805 [rafi2805]: "its done"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Wiltshire Farm!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] rafi2805 [rafi2805]: "/buy 67/2"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/god"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica disabled Godmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/vanish"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica disabled Vanishmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] rafi2805 [rafi2805]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
