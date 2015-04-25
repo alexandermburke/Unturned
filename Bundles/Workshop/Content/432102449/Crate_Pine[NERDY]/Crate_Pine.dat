@@ -1,0 +1,26 @@
+Type Barricade
+Useable Barricade
+Build Storage
+ID 11002
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 200
+Range 4
+Radius 0.5
+Offset 0.75
+
+Locked
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Supply_1_ID 42
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Build 27
