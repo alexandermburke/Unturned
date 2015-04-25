@@ -2420,3 +2420,511 @@ Broadcast: A military supply drop will be dropped Montague in 5 minutes!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
+Broadcast: The awesome YOLO connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198073759827 Name: [OPST]The awesome YOLO Character: The awesome YOLO
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Bouvian [Bouvian The Box Solly]: ":D"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Destroyers_01 [Destroyers_01]: "viny can u help"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Sergeant Sandvich [The Sandvich Guy]: "the luttuce mafia"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "please guys you arent helping me"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] The awesome YOLO [[OPST]The awesome YOLO]: "/buy 14"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Bouvian [Bouvian The Box Solly]: "Ha destoryer is poor"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "i need adm help"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Sergeant Sandvich [The Sandvich Guy]: "the natices from yukon"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: The awesome YOLO disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198073759827 Name: [OPST]The awesome YOLO Character: The awesome YOLO
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Sergeant Sandvich [The Sandvich Guy]: "*natives"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Bouvian [Bouvian The Box Solly]: "Allah"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Bouvian [Bouvian The Box Solly]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SDG.BarricadeManager.askToggleDoor (CSteamID v, Byte T, Byte Y, UInt16 B) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID o, System.Byte[] d, Int32 h) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.j (CSteamID N, System.Byte[] w, Int32 X, Int32 Y) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.t (Int32 c) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.U () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SDG.BarricadeManager.askToggleDoor (CSteamID v, Byte T, Byte Y, UInt16 B) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID o, System.Byte[] d, Int32 h) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.j (CSteamID N, System.Byte[] w, Int32 X, Int32 Y) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.t (Int32 c) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.U () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Area] Bouvian [Bouvian The Box Solly]: "AUKBAHR"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Destroyers_01 disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198142495673 Name: Destroyers_01 Character: Destroyers_01
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "I think the hulk glitched"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "noo"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Sergeant Sandvich [The Sandvich Guy]: "Allahay"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Yan [Yan]: "ur house is glithced cuz masive buildings"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "someone is griefing my chest"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Sergeant Sandvich [The Sandvich Guy]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "stop"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "fucking hell"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Montague in 4 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "I told you the"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Bike Man (El Capitain) connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198151129091 Name: Bike Man Character: Bike Man (El Capitain)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: The awesome YOLO connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198073759827 Name: [OPST]The awesome YOLO Character: The awesome YOLO
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Destroyers_01 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198142495673 Name: Destroyers_01 Character: Destroyers_01
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+[World] Holya666 [Holya666]: "the crates are glitched"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Strong Badman [Strong Badman]: "take what you want"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] The awesome YOLO [[OPST]The awesome YOLO]: "/buy 15"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Drawingpad disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198109642489 Name: drawingpad Character: Drawingpad
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "mine arent"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "they will distrubute items"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Sergeant Sandvich [The Sandvich Guy]: "open up"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "if their are to many on the server"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Sergeant Sandvich [The Sandvich Guy]: "Thr brudda is here"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Achuran [A churro]: "Bike man"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] The awesome YOLO [[OPST]The awesome YOLO]: "/buy 472"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Achuran [A churro]: "Got any liquids?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: matrix120 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198131312612 Name: matrix120 Character: matrix120
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Bike Man (El Capitain) [Bike Man]: "yo"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] The awesome YOLO [[OPST]The awesome YOLO]: "/by 78"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Montague in 3 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Bike Man (El Capitain) [Bike Man]: "not really"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "vynil help please"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Holya666 [Holya666]: "thats why you store everything in vaults"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "or someone"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Achuran [A churro]: "Out of the car"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] The awesome YOLO [[OPST]The awesome YOLO]: "/buy 78"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "me?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "place a doorway here"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Achuran [A churro]: "Bikeman is this this guys car"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] The awesome YOLO [[OPST]The awesome YOLO]: "/buy 80"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Achuran [A churro]: "Or did he steal yours"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "this si my car"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "or someone can take my crates"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: matrix120 disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198131312612 Name: matrix120 Character: matrix120
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 6:34:33 PM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Don't forget to participate in our Weekly Raffle on the forums!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Don't forget to participate in our Weekly Raffle on the forums!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "help vynil please"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp lui"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to luizeduplima
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "so who are staff members?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Wwhat"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Holya666 disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198146045213 Name: Holya666 Character: Holya666
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] The awesome YOLO [[OPST]The awesome YOLO]: "/buy 15"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "ith my door"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Johnny Bravo disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198137305066 Name: John Yanez Character: Johnny Bravo
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Montague in 2 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "viny"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "What luiz"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "What Dest"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "you can help with my door?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "luiiz stole form my crate"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Holya666 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198146045213 Name: Holya666 Character: Holya666
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+PhysicsSDK: NpActor::moveGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 1040)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+PhysicsSDK: NpActor::moveGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 1040)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+PhysicsSDK: NpActor::moveGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 1040)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "You can get through without the door"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SDG.BarricadeManager.askToggleDoor (CSteamID v, Byte T, Byte Y, UInt16 B) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID o, System.Byte[] d, Int32 h) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.j (CSteamID N, System.Byte[] w, Int32 X, Int32 Y) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.t (Int32 c) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.U () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SDG.BarricadeManager.askToggleDoor (CSteamID v, Byte T, Byte Y, UInt16 B) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID o, System.Byte[] d, Int32 h) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.j (CSteamID N, System.Byte[] w, Int32 X, Int32 Y) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.t (Int32 c) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.U () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] luizeduplima [luizeduplima]: "i cant open my door"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Sergeant Sandvich [The Sandvich Guy]: "/buy i.9.4.3"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "YEah well"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "it s broken"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Bouvian [Bouvian The Box Solly]: "Lol"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Can't you just walk around the door?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] luizeduplima [luizeduplima]: "i dont stolen nothingo from anyone"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Achuran [A churro]: "Anyone claming black truck with 0 gas?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
