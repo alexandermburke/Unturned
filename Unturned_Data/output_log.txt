@@ -125,25 +125,25 @@ The ID 820 for EXE_VSSVintorez is already taken by EXE_VSSVintorez!
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1385 unused Assets to reduce memory usage. Loaded Objects now: 33656.
-Total: 16.287544 ms (FindLiveObjects: 1.851073 ms CreateObjectMapping: 4.305295 ms MarkObjects: 7.419099 ms  DeleteObjects: 2.421257 ms)
+Total: 17.161959 ms (FindLiveObjects: 1.887390 ms CreateObjectMapping: 4.634946 ms MarkObjects: 8.000178 ms  DeleteObjects: 2.335492 ms)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Xml.dll (this message is harmless)
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\System.Configuration.dll (this message is harmless)
-The server will automaticly shutdown in 7200 seconds (4/24/2015 9:44:34 AM UTC)
+The server will automaticly shutdown in 7200 seconds (4/25/2015 7:46:54 AM UTC)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-UnloadTime: 3.851048 ms
+UnloadTime: 3.429486 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 33674.
-Total: 13.985296 ms (FindLiveObjects: 1.800228 ms CreateObjectMapping: 4.044368 ms MarkObjects: 7.785905 ms  DeleteObjects: 0.084368 ms)
+Total: 14.463011 ms (FindLiveObjects: 1.955835 ms CreateObjectMapping: 4.370667 ms MarkObjects: 7.782553 ms  DeleteObjects: 0.084926 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 33714.
-Total: 46.269566 ms (FindLiveObjects: 1.751898 ms CreateObjectMapping: 3.862222 ms MarkObjects: 40.280815 ms  DeleteObjects: 0.102526 ms)
+Total: 46.637489 ms (FindLiveObjects: 1.755809 ms CreateObjectMapping: 4.165333 ms MarkObjects: 40.314064 ms  DeleteObjects: 0.095822 ms)
 
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\I18N.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\I18N.West.dll (this message is harmless)
@@ -151,74 +151,74 @@ Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Se
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Data.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Management.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Servers\myfancyserver\Rocket\Libraries\System.Transactions.dll (this message is harmless)
-Non platform assembly: data-2C6CD650 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6CD650.dll
+Non platform assembly: data-2C83CA98 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C83CA98.dll
 AntiSuicide Version: 1.2.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6CFA58 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6CFA58.dll
+Non platform assembly: data-06A01870 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06A01870.dll
 autosave Version: 1.0.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6D1060 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6D1060.dll
+Non platform assembly: data-2C83EEA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C83EEA0.dll
 GlobalBan Version: 1.4.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6D3A68 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6D3A68.dll
+Non platform assembly: data-2C8418A8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C8418A8.dll
 Zamirathe_HomeCommand Version: 2.0.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6D5E70 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6D5E70.dll
+Non platform assembly: data-2C845CB0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C845CB0.dll
 JailTime Version: 1.0.1.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6D9878 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6D9878.dll
+Non platform assembly: data-2C8496B8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C8496B8.dll
 MessageAnnouncer Version: 1.5.0.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6DAC80 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6DAC80.dll
+Non platform assembly: data-2C84AAC0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C84AAC0.dll
 PrivateMessaging Version: 1.0.0.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06CD6F48 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CD6F48.dll
+Non platform assembly: data-06AB6EA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06AB6EA0.dll
 Uconomy Version: 1.0.4.0
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6DE288 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6DE288.dll
+Non platform assembly: data-2C84E0C8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C84E0C8.dll
 Votifier Version: 1.3.0.1
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-06CD9750 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06CD9750.dll
+Non platform assembly: data-06AB96A8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-06AB96A8.dll
 Zamirathe_Feast Version: 2.0.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6E2C90 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6E2C90.dll
+Non platform assembly: data-2C8522D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C8522D0.dll
 Zamirathe_HomeCommand Version: 2.1.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C6E5698 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C6E5698.dll
+Non platform assembly: data-2C854CD8 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C854CD8.dll
 ZaupShop Version: 1.1.0.2
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
@@ -345,22 +345,22 @@ MessageAnnouncer >> Use /home to teleport to your claimed bed!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Zamirathe_Feast >> The next feast will be at Wiltshire Farm at 4/24/2015 3:54:48 AM
+Zamirathe_Feast >> The next feast will be at Summerside Military Base at 4/25/2015 2:05:56 AM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Non platform assembly: data-2C75FC30 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C75FC30.dll
-Non platform assembly: data-2C770838 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C770838.dll
-Non platform assembly: data-2C779440 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C779440.dll
-Non platform assembly: data-2DFC0020 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2DFC0020.dll
-Non platform assembly: data-2C7F1A48 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C7F1A48.dll
-Non platform assembly: data-2C86D930 (this message is harmless)
-Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C86D930.dll
+Non platform assembly: data-2C8D0B60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C8D0B60.dll
+Non platform assembly: data-2C8E2768 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C8E2768.dll
+Non platform assembly: data-2C8F7370 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C8F7370.dll
+Non platform assembly: data-2C510020 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C510020.dll
+Non platform assembly: data-2C966978 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C966978.dll
+Non platform assembly: data-2C9E2C90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/Mono/data-2C9E2C90.dll
 The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 6490136 > 6490132]
  
@@ -436,20 +436,20 @@ The file 'C:/Program Files (x86)/Steam/SteamApps/common/Unturned/Unturned_Data/r
  
 (Filename:  Line: 273)
 
-Broadcast: Skye Captain connected to the server
+Broadcast: newtoniorock8 connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198081570969 Name: Benjaskey Character: Skye Captain
+Connecting: PlayerID: 76561198094256644 Name: newtoniorock8 Character: newtoniorock8
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 Platform assembly: C:\Program Files (x86)\Steam\SteamApps\common\Unturned\Unturned_Data\Managed\Mono.Security.dll (this message is harmless)
-Broadcast: Gabryal connected to the server
+Broadcast: BumBum connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198009935962 Name: Gabryal Character: Gabryal
+Connecting: PlayerID: 76561198105710971 Name: BumBum Character: BumBum
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -461,43 +461,75 @@ Connecting: PlayerID: 76561198142495673 Name: Destroyers_01 Character: Destroyer
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: rafi2805 connected to the server
+Broadcast: Phonglol connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198037392073 Name: rafi2805 Character: rafi2805
+Connecting: PlayerID: 76561198058099210 Name: Phonglol Character: Phonglol
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Survivor512 connected to the server
+Broadcast: oONobleChiefOo connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198108642487 Name: alex.bogdanov Character: Survivor512
+Connecting: PlayerID: 76561198145563839 Name: oONobleChiefOo Character: oONobleChiefOo
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: DIRTY DAN connected to the server
+Broadcast: kirito connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561197972987252 Name: DIRTY DAN Character: DIRTY DAN
+Connecting: PlayerID: 76561198191153923 Name: jakemalery1 Character: kirito
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Raph connected to the server
+[World] oONobleChiefOo [oONobleChiefOo]: "is this place for players to live in on this server?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198131897830 Name: avatemuulen Character: Raph
+[World] oONobleChiefOo [oONobleChiefOo]: "at alberton"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Survivor512 disconnected from the server
+Broadcast: Lord Viper connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198108642487 Name: alex.bogdanov Character: Survivor512
+Connecting: PlayerID: 76561198167400263 Name: viper.feronzie Character: Lord Viper
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "new planning on stealing that stuff too huh"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kirito [jakemalery1]: "wow right when im in the server he leaves"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kirito [jakemalery1]: "that sucks"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kirito [jakemalery1]: "that just sucks"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "sorrry"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "had to book it"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kirito [jakemalery1]: "i guess its ok im looting anyway"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kirito [jakemalery1]: "i have eagle fire now"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -509,71 +541,11 @@ Connecting: PlayerID: 76561198144643819 Name: Arizaldy Character: Arizaldy
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] rafi2805 [rafi2805]: "mili crate"
+[World] kirito [jakemalery1]: "no idea what that is"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Survivor512 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198108642487 Name: alex.bogdanov Character: Survivor512
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: ProfessorPenguin18 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198164026457 Name: ProfessorPenguin18 Character: ProfessorPenguin18
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Pastaface connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198161443909 Name: Pastaface Character: Pastaface
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arizaldy [Arizaldy]: "destroying the stairs or not ?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Pastaface [Pastaface] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Destroyers_01 [Destroyers_01] was mauled by a zombie!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] rafi2805 [rafi2805]: "later"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arizaldy [Arizaldy]: "k"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] rafi2805 [rafi2805]: "or now"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Gabryal [Gabryal]: "eventually yes"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Destroyers_01 [Destroyers_01]: "dammit"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Destroyers_01 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198142495673 Name: Destroyers_01 Character: Destroyers_01
+[World] Lord Viper [viper.feronzie]: "/home"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -585,43 +557,47 @@ MessageAnnouncer >> Be sure to check out our website unturned.plantdown.com
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Pastaface [Pastaface]: "i died when i spawned back, lol"
+Broadcast: BumBum disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Survivor512 [alex.bogdanov]: "can someone teleport me?"
+Disconnecting: PlayerID: 76561198105710971 Name: BumBum Character: BumBum
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] rafi2805 [rafi2805]: "/home"
+kirito [jakemalery1] was mauled by a zombie!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Survivor512 [alex.bogdanov]: "Please..."
+[Area] kirito [jakemalery1]: "dammit i got killed"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Pastaface [Pastaface] was mauled by a zombie!
+kirito [jakemalery1] killed themself.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Raph [avatemuulen]: "stop police"
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+Broadcast: Bam connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Raph [avatemuulen]: "hi"
+Connecting: PlayerID: 76561198189170690 Name: Bam Character: Bam
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Survivor512 [alex.bogdanov]: "hi"
+Broadcast: Bam disconnected from the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] DIRTY DAN [DIRTY DAN]: "How do I turn on my police lights?"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Raph [avatemuulen]: "lctrl"
+Disconnecting: PlayerID: 76561198189170690 Name: Bam Character: Bam
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -633,23 +609,31 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/24/2015 3:49:43 AM
+Saved at 4/25/2015 1:52:03 AM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Wiltshire Farm in 5 minutes!
+[World] kirito [jakemalery1]: "hey phong wait for me at that place"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] DIRTY DAN [DIRTY DAN]: "Thanks"
+[World] kirito [jakemalery1]: "stratford at the hospital"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] rafi2805 [rafi2805]: "gabryal"
+Broadcast: Bam connected to the server
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Raph [avatemuulen]: "can give me ur police"
+Connecting: PlayerID: 76561198189170690 Name: Bam Character: Bam
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpBoxShape::setDimensions: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 47)
+
+[Area] kirito [jakemalery1]: "k?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -661,107 +645,27 @@ MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/520
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Raph [avatemuulen]: "police pants"
+[World] Bam [Bam]: "Oh"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Wiltshire Farm in 4 minutes!
+[World] Bam [Bam]: "Anti-suicide?"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] Arizaldy [Arizaldy]: "to hard to break"
+[World] Bam [Bam]: "What."
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] rafi2805 [rafi2805]: "lets start from the bottom"
+[World] Arizaldy [Arizaldy]: "Hi"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Raph [avatemuulen] was mauled by a zombie!
+[World] Arizaldy [Arizaldy]: "/home"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: rafi2805 disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198037392073 Name: rafi2805 Character: rafi2805
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: rafi2805 connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198037392073 Name: rafi2805 Character: rafi2805
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
- 
-(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
-
-Broadcast: A military supply drop will be dropped Wiltshire Farm in 3 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Arizaldy [Arizaldy]: "the stairs is to hard to break with chainsaw"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Gabryal [Gabryal]: "/home"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] Gabryal [Gabryal]: "use a blowtorch"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] rafi2805 [rafi2805]: "kk"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: VinylPhilharmonica connected to the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Connecting: PlayerID: 76561198091716852 Name: Vinyl Philharmonica Character: VinylPhilharmonica
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop will be dropped Wiltshire Farm in 2 minutes!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: Arizaldy disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198144643819 Name: Arizaldy Character: Arizaldy
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "/TP SURV"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-VinylPhilharmonica teleported to Survivor512
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "/god"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-VinylPhilharmonica enabled Godmode
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "/vanish"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-VinylPhilharmonica enabled Vanishmode
+[World] Bam [Bam]: "Hi"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -773,35 +677,2059 @@ MessageAnnouncer >>  To collect your vote reward say /reward, you can do this on
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop will be dropped Wiltshire Farm in 1 minutes!
+[World] Bam [Bam]: "/tp lor"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] rafi2805 [rafi2805]: "/home"
+Bam teleported to Lord Viper
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: rafi2805 disconnected from the server
+[World] oONobleChiefOo [oONobleChiefOo]: "/reward"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198037392073 Name: rafi2805 Character: rafi2805
+[World] oONobleChiefOo [oONobleChiefOo]: "/balance"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: Survivor512 disconnected from the server
+[World] oONobleChiefOo [oONobleChiefOo]: "/shop"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Disconnecting: PlayerID: 76561198108642487 Name: alex.bogdanov Character: Survivor512
+[World] oONobleChiefOo [oONobleChiefOo]: "/itemmall"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: rafi2805 connected to the server
+[World] oONobleChiefOo [oONobleChiefOo]: "/shopmall"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Connecting: PlayerID: 76561198037392073 Name: rafi2805 Character: rafi2805
+[World] newtoniorock8 [newtoniorock8]: "home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] newtoniorock8 [newtoniorock8]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "/itembuy"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "/buyitems"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "/buyitem"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kirito [jakemalery1]: "gtg"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "itemsbuy"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: newtoniorock8 disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198094256644 Name: newtoniorock8 Character: newtoniorock8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 1:57:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Bam [Bam]: "are you trying to buy things?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: BumBum connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198105710971 Name: BumBum Character: BumBum
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+PhysicsSDK: NpActor::moveGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 1040)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+[World] Bam [Bam]: "/tp well"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Bam teleported to Wellington Farm
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kirito [jakemalery1]: "WHO TOOK MY MAPLESTRIKES AMMUNITION?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kirito [jakemalery1]: "whatever i gtg anyway"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: kirito disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198191153923 Name: jakemalery1 Character: kirito
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Ratscience3 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198162451352 Name: Ratscience3 Character: Ratscience3
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] BumBum [BumBum]: ":o"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String T, ESteamCall w, ESteamPacket N, System.Object[] t) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.t (Byte g, SDG.ItemJar v) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.F (Byte o, Byte F, SDG.ItemJar F) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.removeItem (Byte v) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.removeItem (Byte l, Byte d) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDropItem (CSteamID M, Byte A, Byte S, Byte l) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID o, System.Byte[] d, Int32 h) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.j (CSteamID N, System.Byte[] w, Int32 X, Int32 Y) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.t (Int32 c) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.U () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Group] Bam [Bam]: "Aw shit"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Anyone caught cheating or hacking will be banned!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Anyone caught cheating or hacking will be banned!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: newtoniorock8 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198094256644 Name: newtoniorock8 Character: newtoniorock8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 803)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String T, ESteamCall w, ESteamPacket N, System.Object[] t) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.c (Byte J, SDG.ItemJar N) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.J (Byte V, Byte r, SDG.ItemJar p) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.addItem (Byte M, Byte E, SDG.Item w) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDragItem (CSteamID a, Byte k, Byte F, Byte t, Byte s, Byte R, Byte W) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID o, System.Byte[] d, Int32 h) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.j (CSteamID N, System.Byte[] w, Int32 X, Int32 Y) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.t (Int32 c) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.U () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetTransform ()
+  at UnityEngine.Component.get_transform () [0x00000] in <filename unknown>:0 
+  at Rocket.RocketAPI.Events.RocketPlayerEvents.Send (SDG.SteamPlayer s, System.String W, ESteamCall X, ESteamPacket l, System.Object[] R) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.send (System.String T, ESteamCall w, ESteamPacket N, System.Object[] t) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.c (Byte J, SDG.ItemJar N) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.J (Byte V, Byte r, SDG.ItemJar p) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) SDG.ItemRemoved:invoke_void__this___byte_byte_ItemJar (byte,byte,SDG.ItemJar)
+  at SDG.Items.addItem (Byte M, Byte E, SDG.Item w) [0x00000] in <filename unknown>:0 
+  at SDG.PlayerInventory.askDragItem (CSteamID a, Byte k, Byte F, Byte t, Byte s, Byte R, Byte W) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at SDG.SteamChannel.receive (CSteamID o, System.Byte[] d, Int32 h) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.j (CSteamID N, System.Byte[] w, Int32 X, Int32 Y) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.t (Int32 c) [0x00000] in <filename unknown>:0 
+  at SDG.Steam.U () [0x00000] in <filename unknown>:0 
+  at SDG.Steam.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: VinylPhilharmonica connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198091716852 Name: Vinyl Philharmonica Character: VinylPhilharmonica
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "I accidentally"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Bambi"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "What?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "I didn't do the process though wtf"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Summerside Military Base in 5 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "I lost connection in a crate lol"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "I destroyed it though"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "wait what?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Accidental dupey"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "want to go together?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "oh k"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "are you done with the update though?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "sure"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Yeah"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: ":D"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "sweet"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "uh"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Summerside Military Base in 4 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "you hurt?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:02:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Don't forget to participate in our Weekly Raffle on the forums!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Don't forget to participate in our Weekly Raffle on the forums!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "whats your name ?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "Bamb"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "first how do i change to area chat?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Press K"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "we're friends I think"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "on my smurf account"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "use key j.k.l maybe"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "no on real"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Oh"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "not on my real account*"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "yee"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Destroyers_01 [Destroyers_01]: "no but i need medicine"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "wat was yours again?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Vyxan or"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Vyxxan"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "here"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Vyxan*"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Destroyers_01 [Destroyers_01]: "im on 1% for infection"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Summerside Military Base in 3 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "sent invite"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "btw vinyl"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Destroyers_01 [Destroyers_01]: "thx"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "yes?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "what best gun in this server ?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "In my opinion"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "Depends on what you want"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "but uh"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "want to wait for that airdrop to come?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "sniper i want sniper"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "oh"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "sniper?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "yes"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "AS Val"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Destroyers_01 [Destroyers_01]: "do they work i tried  but nothing came"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "in my opion"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "opinion"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Summerside Military Base in 2 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "also"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "depends on what you want"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lord Viper [viper.feronzie]: "Is that the hissy one"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "Should I hind the APC or bring her inside?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "high dps"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Destroyers_01 [Destroyers_01]: "but sure"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Vyxan"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "ok i will try that"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "Yeah added"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Destroyers_01 [Destroyers_01]: "bring inside"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Oh okay"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "Chibi"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "I didn't get it"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Destroyers_01 [Destroyers_01]: "no1 is allowed to steal it i think"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] BumBum [BumBum]: "i trust in hawkhound with binoc scope"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] BumBum [BumBum]: "hasnt failed me yet"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "can people steal acrs if say u just hoped out of it"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "cars*"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "Isn't it Vyxxan?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "and are still next to it"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "Yeah"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop will be dropped Summerside Military Base in 1 minutes!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "or Vyxan"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lord Viper [viper.feronzie]: "Not if you have a loaded shadowstalker"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Every week we have a raffle and you will have a chance to win points!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Every week we have a raffle and you will have a chance to win points!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: YellowwFeverr connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561197991570758 Name: asian2891 Character: YellowwFeverr
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "sent invite"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "i just found alice pack"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Bam [Bam]: "There we go"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "any1 want alice ?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: ":D"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Bam disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198189170690 Name: Bam Character: Bam
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "accepts :D"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: klydeiscope connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198161281839 Name: stephgrafe Character: klydeiscope
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:07:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] VinylPhilharmonica [Vinyl Philharmonica]: "/god"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica enabled Godmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/god"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica disabled Godmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "where is it?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lord Viper [viper.feronzie]: "/balance"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Lord Viper [viper.feronzie]: "/buy 67/20"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Don't forget  the server ip: play.plantdown.com
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Don't forget  the server ip: play.plantdown.com
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "Lets go 01"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lord Viper [viper.feronzie]: "/buy 67/2"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lord Viper [viper.feronzie]: "/balance"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "who was flying?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] newtoniorock8 [newtoniorock8]: "birds"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "where the freak is the drop?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "idk"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Area] Phonglol [Phonglol]: "Lets go Destroyer"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] BumBum [BumBum]: "random spawns"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lord Viper [viper.feronzie]: "xXHacker69-420-360Xx"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "Destroyer are you in?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lord Viper [viper.feronzie]: "Thats what she said"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "no"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "get in"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "oi oi oi!"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "i relaly want to take this car"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "Okay"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "really*"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] newtoniorock8 [newtoniorock8]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Phonglol [Phonglol]: "I guess we will depart from this point"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Lord Viper [viper.feronzie]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] klydeiscope [stephgrafe]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: ";)"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "can u drop me off at alberton?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "im inside the APC"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "okay"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "hi"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Ratscience3 [Ratscience3]: "hi"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "hich part at alberton?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Arizaldy [Arizaldy]: "want bag ?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "here"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "is fine"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Ratscience3 [Ratscience3]: "got ammo?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "nope"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] oONobleChiefOo [oONobleChiefOo]: "thanks mate"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: klydeiscope disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198161281839 Name: stephgrafe Character: klydeiscope
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "Good day and safe journey to you"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: oONobleChiefOo disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198145563839 Name: oONobleChiefOo Character: oONobleChiefOo
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:12:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "oi get out of my car"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: BumBum disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198105710971 Name: BumBum Character: BumBum
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "this guy is stealing"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: IceZeedZa connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198145503308 Name: IceZeedZa007 Character: IceZeedZa
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Destroyers_01 [Destroyers_01]: "can i get a tp?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: natasha connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198038736604 Name: natasha Character: natasha
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "did you kill him? or I?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: YellowwFeverr disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561197991570758 Name: asian2891 Character: YellowwFeverr
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Ratscience3 [Ratscience3]: "i found a giefed base"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "i think iam kill him"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IceZeedZa [IceZeedZa007] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Area] Phonglol [Phonglol]: "Good day to you"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Lord Viper [viper.feronzie]: "Vinyl"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: pusukit connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198193534343 Name: pusukit Character: pusukit
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Ratscience3 disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198162451352 Name: Ratscience3 Character: Ratscience3
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Arizaldy [Arizaldy] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] Lord Viper [viper.feronzie]: "nvm"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: Lord Viper disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198167400263 Name: viper.feronzie Character: Lord Viper
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Arizaldy [Arizaldy]: "/buy v.1"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:17:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Remember this server is PvE only, so you can't kill others here.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Remember this server is PvE only, so you can't kill others here.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+newtoniorock8 [newtoniorock8] was infected to death!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Please remember to always speak english in the main chat!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Please remember to always speak english in the main chat!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "/balance"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "/buy v.57\"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "/buy v.57"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Arizaldy [Arizaldy]: "/buy v.humvee"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: newtoniorock8 disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198094256644 Name: newtoniorock8 Character: newtoniorock8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:22:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Arizaldy [Arizaldy]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:27:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: We will be hiring more people to the staff team soon!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> We will be hiring more people to the staff team soon!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: [Savior] Grant connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198165594273 Name: SAP Character: [Savior] Grant
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] [Savior] Grant [SAP]: "/i 1"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Arizaldy [Arizaldy]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: davidk connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198135743259 Name: davidk Character: davidk
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Savior] Grant [SAP] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Arizaldy [Arizaldy]: "/buy 43/2"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "Did you die?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "nooooo"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Phonglol [Phonglol]: "I was too late to save you :("
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:32:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Arizaldy disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198144643819 Name: Arizaldy Character: Arizaldy
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Destroyers_01 [Destroyers_01]: "hi"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "oi"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: kibakii connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198082834143 Name: kibakii Character: kibakii
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: anthony.lemaster connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198184132835 Name: anthony.lemaster Character: anthony.lemaster
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: anthony.lemaster disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198184132835 Name: anthony.lemaster Character: anthony.lemaster
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Area] Phonglol [Phonglol]: "you hurt?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "no im good"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "looked like they got you."
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Destroyers_01 [Destroyers_01]: "they did"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] Phonglol [Phonglol]: "Okay, sorry about that"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:37:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: Be sure to join our Steam group Unturned Survival Instincts
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Be sure to join our Steam group Unturned Survival Instincts
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: kibakii disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198082834143 Name: kibakii Character: kibakii
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: davidk disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198135743259 Name: davidk Character: davidk
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:42:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroyers_01 [Destroyers_01] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+pusukit [pusukit] bled to death!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IceZeedZa [IceZeedZa007] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+PhysicsSDK: NpActor::moveGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 1040)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+PhysicsSDK: NpBoxShape::setDimensions: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 47)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/vanish"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica enabled Vanishmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/god"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica enabled Godmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp grant"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to [Savior] Grant
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp pus"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to pusukit
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp nat"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to natasha
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp Ice"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to IceZeedZa
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IceZeedZa [IceZeedZa007] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: IceZeedZa disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+#################### 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+##  ANTI-SUICIDE  ## : IceZeedZa was kicked for multiple suicides!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+#################### 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp phong"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to Phonglol
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: pusukit disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198193534343 Name: pusukit Character: pusukit
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: To check your wallet say /balance
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> To check your wallet say /balance
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:47:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: mereacrepetru0uk connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198221631128 Name: mereacrepetru0uk Character: mereacrepetru0uk
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "i need help"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp mer"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to mereacrepetru0uk
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: pusukit connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198193534343 Name: pusukit Character: pusukit
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp pusu"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to pusukit
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp des"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to Destroyers_01
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: IceZeedZa connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198145503308 Name: IceZeedZa007 Character: IceZeedZa
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+PhysicsSDK: NpActor::moveGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 1040)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+IceZeedZa [IceZeedZa007] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: IceZeedZa disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+#################### 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+##  ANTI-SUICIDE  ## : IceZeedZa was kicked for multiple suicides!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+#################### 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: Every day your online will earn 20 Canadian Dollars
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Every day your online will earn 20 Canadian Dollars
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "do yu have cevilian bulets"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp monta"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to Montague
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Phonglol [Phonglol]: "nope"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: IceZeedZa connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198145503308 Name: IceZeedZa007 Character: IceZeedZa
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: IceZeedZa disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198145503308 Name: IceZeedZa007 Character: IceZeedZa
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 2:52:03 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: IceZeedZa connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198145503308 Name: IceZeedZa007 Character: IceZeedZa
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -829,17 +2757,143 @@ PhysicsSDK: NpActor::moveGlobalPosition: WriteLock is still acquired. Procedure 
  
 (Filename: ..\..\Physics\src\NpActor.cpp Line: 1040)
 
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp Dan"
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-VinylPhilharmonica teleported to DIRTY DAN
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+pusukit [pusukit] was mauled by a zombie!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] rafi2805 [rafi2805]: "/home"
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "i need help"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "med kit"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "i got 20 life"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "thx"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Kent28 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198209405524 Name: kentseandysunaryo Character: Kent28
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Phonglol [Phonglol]: "Im gonna go now. So keep the APC if you want"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Kent28 disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198209405524 Name: kentseandysunaryo Character: Kent28
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "no i dont like it"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "is sow slow"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IceZeedZa [IceZeedZa007] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Phonglol disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198058099210 Name: Phonglol Character: Phonglol
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+mereacrepetru0uk [mereacrepetru0uk] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Group] IceZeedZa [IceZeedZa007]: "lk"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
 Server saved.
  
@@ -849,105 +2903,15 @@ Broadcast: Player Statistics have been saved
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Saved at 4/24/2015 3:54:43 AM
+Saved at 4/25/2015 2:57:03 AM
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Broadcast: A military supply drop has been dropped at Wiltshire Farm!
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp pusu"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-MissingMethodException: Method not found: 'SDG.Item..ctor'.
-  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
-  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Broadcast: A military supply drop has been dropped at Wiltshire Farm!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MissingMethodException: Method not found: 'SDG.Item..ctor'.
-  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
-  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Broadcast: Anyone caught cheating or hacking will be banned!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MessageAnnouncer >> Anyone caught cheating or hacking will be banned!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp char"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-VinylPhilharmonica teleported to Charlottetown
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Wiltshire Farm!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MissingMethodException: Method not found: 'SDG.Item..ctor'.
-  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
-  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-[World] rafi2805 [rafi2805]: "/buy 67/2"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] rafi2805 [rafi2805]: "/buy 67/2"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Wiltshire Farm!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MissingMethodException: Method not found: 'SDG.Item..ctor'.
-  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
-  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Broadcast: Pastaface disconnected from the server
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Disconnecting: PlayerID: 76561198161443909 Name: Pastaface Character: Pastaface
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] rafi2805 [rafi2805]: "its done"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Broadcast: A military supply drop has been dropped at Wiltshire Farm!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-MissingMethodException: Method not found: 'SDG.Item..ctor'.
-  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
-  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-[World] rafi2805 [rafi2805]: "/buy 67/2"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-[World] VinylPhilharmonica [Vinyl Philharmonica]: "/god"
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-VinylPhilharmonica disabled Godmode
+VinylPhilharmonica teleported to pusukit
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -959,11 +2923,813 @@ VinylPhilharmonica disabled Vanishmode
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-[World] rafi2805 [rafi2805]: "/home"
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/vanish"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica enabled Vanishmode
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: two2gaminbros connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198150490417 Name: SwiperNoSwiping Character: two2gaminbros
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp wto"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] IceZeedZa [IceZeedZa007]: "waht"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp two"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to two2gaminbros
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp mere"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to mereacrepetru0uk
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] VinylPhilharmonica [Vinyl Philharmonica]: "/tp grant"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+VinylPhilharmonica teleported to [Savior] Grant
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Canadian Dollars can be spent in the item mall, visit tycoon-city.com for commands.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Canadian Dollars can be spent in the item mall, visit tycoon-city.com for commands.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] IceZeedZa [IceZeedZa007]: "thnak"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroyers_01 [Destroyers_01] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: minecraftismydestiny connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198215859716 Name: minecraftismydestiny Character: minecraftismydestiny
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Dragon connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198055676162 Name: Dragon_Fury Character: Dragon
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] [Savior] Grant [SAP]: "Test"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] IceZeedZa [IceZeedZa007]: "hello"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] minecraftismydestiny [minecraftismydestiny]: "hello"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "hekki"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "hello"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Dragon [Dragon_Fury]: "i spawned by alberton"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroyers_01 [Destroyers_01] suffocated to death!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] minecraftismydestiny [minecraftismydestiny]: "whats up"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] two2gaminbros [SwiperNoSwiping]: "if you want to form a group meet at military base"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Our server restarts every two hour, a warning message will be sent 5 minutes before it restarts.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Our server restarts every two hour, a warning message will be sent 5 minutes before it restarts.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 3:02:04 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] two2gaminbros [SwiperNoSwiping]: "dragon where r u"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Dragon [Dragon_Fury]: "alberton"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroyers_01 [Destroyers_01] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Dragon [Dragon_Fury]: "im in a purple tee"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "bring supplies for me and meet at military bas"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 [World] VinylPhilharmonica [Vinyl Philharmonica]: "/home"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Dragon [Dragon_Fury]: "and construction hat"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroyers_01 [Destroyers_01] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Raph connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198131897830 Name: avatemuulen Character: Raph
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: CloWn connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198067811758 Name: bubblebobo Character: CloWn
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Dragon [Dragon_Fury]: "what is it for a makeshift gun?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "scrap metal planks duct tape rope"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Raph [avatemuulen]: "/buy vaccine"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 3:07:04 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] [Savior] Grant [SAP]: "I need a Water"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] [Savior] Grant [SAP]: "If I dont drink i will die"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: nekomoyasi connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198193103138 Name: nekomoyasi Character: nekomoyasi
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "hi dragon"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Dragon [Dragon_Fury]: "osc, im coming to militia base now"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Raph [avatemuulen]: "selling black balaclava"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "i need help pls"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "i got no food no water an d 30 life"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "can u hear me"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Dragon [Dragon_Fury]: "what do i need for a makeshift gun?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "go to farm"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[Area] natasha [natasha]: "hi"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast:  Be sure to check out the forums http://forums.tycoon-city.com/index.php
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  Be sure to check out the forums http://forums.tycoon-city.com/index.php
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Dragon [Dragon_Fury]: "osc, where r u?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: kibakii connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198082834143 Name: kibakii Character: kibakii
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "what do ou have"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 3:12:04 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] natasha [natasha]: "hi"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: minecraftismydestiny disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198215859716 Name: minecraftismydestiny Character: minecraftismydestiny
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] natasha [natasha]: "want a sandwich?"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "i need whater and a it of food"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+two2gaminbros [SwiperNoSwiping] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "thx a loot"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: kibakii disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198082834143 Name: kibakii Character: kibakii
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "i cant drink it i will get ill"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "its ok now"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: kibakii connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198082834143 Name: kibakii Character: kibakii
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+[World] mereacrepetru0uk [mereacrepetru0uk]: "take it"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] [Savior] Grant [SAP]: "Test"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast:  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To vote for us head over to unturned-servers.net/server/5206 and click vote by voting you can earn rewards!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: kibakii disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198082834143 Name: kibakii Character: kibakii
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: zachary.wan90 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198121114087 Name: zachary.wan90 Character: zachary.wan90
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] two2gaminbros [SwiperNoSwiping]: "thanks m8"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: Raph disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198131897830 Name: avatemuulen Character: Raph
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: newtoniorock8 connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198094256644 Name: newtoniorock8 Character: newtoniorock8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+Broadcast: kibakii connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198082834143 Name: kibakii Character: kibakii
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast:  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >>  To collect your vote reward say /reward, you can do this once a day if you vote 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 3:17:04 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] zachary.wan90 [zachary.wan90]: "/reward"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] kibakii [kibakii]: "/reward"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: kibakii voted on unturned-servers.net and received the "Food" bundle
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Raph connected to the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting: PlayerID: 76561198131897830 Name: avatemuulen Character: Raph
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setGlobalPosition: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 839)
+
+PhysicsSDK: NpBoxShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpBoxShape.cpp Line: 14)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+pusukit [pusukit] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Dragon [Dragon_Fury] was mauled by a zombie!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IceZeedZa [IceZeedZa007] killed themself.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhysicsSDK: NpCapsuleShape::setLocalPose: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpCapsuleShape.cpp Line: 16)
+
+PhysicsSDK: NpActor::setMass: WriteLock is still acquired. Procedure call skipped to avoid a deadlock!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 173)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Broadcast: Use /home to teleport to your claimed bed!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MessageAnnouncer >> Use /home to teleport to your claimed bed!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "guard his stuff"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "where r u dragon"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[World] Dragon [Dragon_Fury]: "coming"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Dragon [Dragon_Fury]: "not far at all, i see u"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] Raph [avatemuulen]: "aa"
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: A military supply drop has been dropped at Summerside Military Base!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+MissingMethodException: Method not found: 'SDG.Item..ctor'.
+  at Zamirathe_Feast.Feast.checkFeast () [0x00000] in <filename unknown>:0 
+  at Zamirathe_Feast.Feast.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server saved.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: Player Statistics have been saved
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saved at 4/25/2015 3:22:04 AM
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Broadcast: kibakii disconnected from the server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnecting: PlayerID: 76561198082834143 Name: kibakii Character: kibakii
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[World] two2gaminbros [SwiperNoSwiping]: "we go to confederation bridge"
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
