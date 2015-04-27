@@ -1,4 +1,4 @@
-Type Barricade
+Type Trap
 Useable Barricade
 Build Spike
 ID 382
@@ -11,6 +11,9 @@ Health 10
 Range 4
 Radius 0.1
 Offset 0.125
+
+Player_Damage 20
+Zombie_Damage 40
 
 Explosion 36
 
