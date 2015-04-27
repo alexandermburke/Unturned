@@ -4,8 +4,8 @@ ID 54
 Speed_Min -6.5
 Speed_Max 15.5
 
-Steer_Min 24
-Steer_Max 48
+Steer_Min 14
+Steer_Max 28
 
 Brake 32
 

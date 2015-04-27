@@ -1,4 +1,4 @@
-Type Barricade
+Type Trap
 Useable Barricade
 Build Wire
 ID 386
@@ -11,6 +11,9 @@ Health 80
 Range 4
 Radius 0.15
 Offset 0.2
+
+Player_Damage 40
+Zombie_Damage 80
 
 Explosion 36
 

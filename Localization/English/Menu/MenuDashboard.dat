@@ -1,6 +1,10 @@
+PlayButtonText Play
 PlayButtonTooltip Play
+SurvivorsButtonText Survivors
 SurvivorsButtonTooltip Survivors
+ConfigurationButtonText Configuration
 ConfigurationButtonTooltip Configuration
+WorkshopButtonText Workshop
 WorkshopButtonTooltip Workshop
 
 Banned You are banned from this server for another {0} because {1}.

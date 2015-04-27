@@ -1,4 +1,4 @@
-Type Barricade
+Type Farm
 Useable Barricade
 Build Farm
 ID 343
@@ -11,6 +11,9 @@ Health 1
 Range 4
 Radius 0.25
 Offset 0.375
+
+Growth 1100
+Grow 342
 
 Explosion 43
 
